@@ -20,7 +20,7 @@ title: "Climate change, sustainability"
 - Solutions: 
 	- COP, other international conferences, etc. 
 - This is a [wicked problem](notes/C_Wicked%20environments.md). Many concepts / mental models involved, far ranging 
-- [Incentives](notes/2_Incentives.md) Is most of it. Finance plays a big part in these incentives. 
+- [Incentives](notes/2_Incentives.md) is most of it. Finance plays a big part in these incentives. 
 - [Sustainability reporting](notes/Sustainability%20reporting.md)
 - [Green bonds](Green%20bonds.md)
 

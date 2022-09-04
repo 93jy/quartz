@@ -3,7 +3,7 @@ title: 🪴 Digital Garden
 ---
 
 # Key links
-- [1_Climate change, sustainability](notes/1_Climate%20change,%20sustainability.md)
+- [Climate change, sustainability](notes/Climate%20change,%20sustainability.md)
 - [00_Crypto](notes/00_Crypto.md)
 - [000_Books](notes/000_Books.md)
 - [000_Mental model collection](notes/000_Mental%20model%20collection.md)

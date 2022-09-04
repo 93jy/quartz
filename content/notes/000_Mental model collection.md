@@ -186,5 +186,5 @@ These are ideas mostly and ways of thinking. Not fully categorised below now
 - [[C_Redundancy]]
 - [[C_Economies of scale]]
 - [[C_Planning fallacy]]
-- **[[notes/1_Climate change, sustainability]]**
+- **[[notes/Climate change, sustainability]]**
 	- [[C_Greenwashing]]

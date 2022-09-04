@@ -1,3 +1,6 @@
+---
+title: "Crypto"
+---
 # Crypto
 [[Investment instruments]] | [[Crypto Timeline]]
 

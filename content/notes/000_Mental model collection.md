@@ -1,3 +1,6 @@
+---
+title: "000_Mental model collection"
+---
 # [[2_Mental Models|Mental model]] collection 
 ***Everything that begins with C***
 Search: file:c_, copy results. Last updated 2022.06.26

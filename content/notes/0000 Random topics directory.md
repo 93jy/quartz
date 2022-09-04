@@ -1,5 +1,8 @@
+---
+title: "0000 Random topics directory"
+---
 # Random topics directory
-Up: [[000 Index]]
+Up: [[notes/000 Index OLD]]
 One day, these can be grouped into themes. Now they are quite disparate, there is no need to group them and create separate directories/'MOCs' yet
 
 Now it's just general knowledge stuff gathered from various random sources.

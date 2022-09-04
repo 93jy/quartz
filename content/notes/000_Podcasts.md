@@ -1,5 +1,5 @@
 # Podcasts
-Up: [[000 Index]]
+Up: [[notes/000 Index OLD]]
 [[PP_Deep Questions]]
 [[PP_Productivity Show]]
 [[PP_The Knowledge Project]]

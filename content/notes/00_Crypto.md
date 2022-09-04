@@ -1,7 +1,6 @@
 ---
 title: "Crypto"
 ---
-# Crypto
 [[Investment instruments]] | [[Crypto Timeline]]
 
 ### Ideas and thoughts (not for Notion)

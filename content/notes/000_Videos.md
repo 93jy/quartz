@@ -1,2 +1,2 @@
 # Videos
-Up: [[notes/000 Index OLD]]
+Up: [[private/000 Index OLD]]

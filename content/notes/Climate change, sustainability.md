@@ -1,7 +1,6 @@
 ---
 title: "Climate change, sustainability"
 ---
-[Back home](_index.md)
 
 ## Concepts
 - What is the problem: carbon emissions → higher temperatures → many effects

@@ -31,6 +31,6 @@ Great! Now you have everything you need to start editing and growing your digita
 
 Having problems? Checkout our [FAQ and Troubleshooting guide](troubleshooting.md).
 
-[000_Mental model collection](000_Mental%20model%20collection.md)
+[Mental model collection](notes/Mental%20model%20collection.md)
 [Test](Test.md)
 

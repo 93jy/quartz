@@ -1,9 +1,9 @@
 ---
 title: "Mental model collection"
 ---
+[Back home](_index.md)
 
 ***Everything that begins with C***
-Search: file:c_, copy results. Last updated 2022.06.26
 These are ideas mostly and ways of thinking. Not fully categorised below now 
 - **[[C_The greatest killer of happiness is comparison]]**
 - **[[2_Productivity]]**

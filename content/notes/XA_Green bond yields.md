@@ -5,5 +5,6 @@ tags:
 - TheActuaryMag
 ---
 [Climate change, sustainability](notes/Climate%20change,%20sustainability.md) | [The Actuary](notes/The%20Actuary.md)
+
 [Green bonds](Green%20bonds.md)
 

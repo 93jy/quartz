@@ -4,10 +4,10 @@ title: "Climate change, sustainability"
 
 ## Concepts
 - What is the problem: carbon emissions → higher temperatures → many effects
-- [[Carbon pricing]]
+- [Carbon pricing](notes/Carbon%20pricing.md)
 - Who foots the bill: wealthy or developing nations?
 	- how do wealthy nations subsidise the poor ones 
-- [[C_Tipping point]]: the change can come all at once, we don't know if we have reached that point yet
+- [C_Tipping point](notes/C_Tipping%20point.md): the change can come all at once, we don't know if we have reached that point yet
 - Delay in results
 	- releasing carbon into the atmosphere - effects would only be seen in the future
 - Irreversibility of changes 
@@ -19,12 +19,13 @@ title: "Climate change, sustainability"
 	- [[Stranded assets]]
 - Solutions: 
 	- COP, other international conferences, etc. 
-- This is a [[C_Wicked environments|wicked problem]]. Many concepts / mental models involved, far ranging 
-- [[2_Incentives|C_Incentives]] Is most of it. Finance plays a big part in these incentives. 
+- This is a [wicked problem](notes/C_Wicked%20environments.md). Many concepts / mental models involved, far ranging 
+- [Incentives](notes/2_Incentives.md) Is most of it. Finance plays a big part in these incentives. 
 - [Sustainability reporting](notes/Sustainability%20reporting.md)
 - [Green bonds](Green%20bonds.md)
 
 ## Resources
+- [The Actuary: Sustainability articles](notes/The%20Actuary.md#Sustainability%20articles)
 - [[IFOA sustainability application]]
 - IFOA newsletter
 - IFOA sustainability course 

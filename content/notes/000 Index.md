@@ -4,7 +4,7 @@ alias: ["000", "Home"]
 # INDEX
 [[_Homepage]]
 [[TEMP]]
-[[000_Books]]
+[[notes/000_Books]]
 # Themes (start with 000x)
 - *[[0000 Random topics directory]]*
 - [[0001 Work]]
@@ -17,7 +17,7 @@ alias: ["000", "Home"]
 ___
 # Sources (types)
 - [[000_Articles|Articles - file names start with A]]
-- [[000_Books|Books - file names start with B]] 
+- [[notes/000_Books|Books - file names start with B]] 
 - [[000_Videos|Videos - file names start with V]]
 - [[000_Podcasts|Podcasts - file names start with P]]
 - [[000_Entertainment|Entertainment (shows, movies) - file names start with E]]

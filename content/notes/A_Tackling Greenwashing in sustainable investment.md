@@ -1,5 +1,5 @@
 ---
-title: "A_Tackling Greenwashing in sustainable investment"
+title: "Tackling Greenwashing in sustainable investment"
 tags:
 - article 
 - TheActuaryMag

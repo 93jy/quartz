@@ -1,7 +1,8 @@
 ---
 title: "A_Tackling Greenwashing in sustainable investment"
 tags:
-- article - TheActuaryMag
+- article 
+- TheActuaryMag
 ---
 [Climate change, sustainability](notes/Climate%20change,%20sustainability.md) | [The Actuary](notes/The%20Actuary.md)
 May 2022, p14 | 2022.08.01 

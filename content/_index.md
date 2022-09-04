@@ -1,7 +1,7 @@
 ---
 title: 🪴 Digital Garden
 ---
-# INDEX
+
 # Key links
 - [1_Climate change, sustainability](notes/1_Climate%20change,%20sustainability.md)
 - [00_Crypto](notes/00_Crypto.md)
@@ -19,7 +19,7 @@ title: 🪴 Digital Garden
 ___
 # Sources (types)
 - [[000_Articles|Articles - file names start with A]]
-- [[notes/000_Books|Books - file names start with B]] 
+- [Books - file names start with B](notes/000_Books.md)
 - [[000_Videos|Videos - file names start with V]]
 - [[000_Podcasts|Podcasts - file names start with P]]
 - [[000_Entertainment|Entertainment (shows, movies) - file names start with E]]
@@ -33,8 +33,3 @@ Using name starting with C (not UID)
 
 **Industries, companies, religions, items, big *topics***: ==2_==
 
-*Each page should have:*
-Up: 
-Tags:
-Links: Upwards to previous page. Structure as follows:
-``[[000 Index]]`` -> Either one of the below

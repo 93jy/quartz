@@ -27,7 +27,6 @@ title: "Climate change, sustainability"
 ## Resources
 - [The Actuary: Sustainability articles](notes/The%20Actuary.md#Sustainability%20articles)
 - [[IFOA sustainability application]]
-- IFOA newsletter
 - IFOA sustainability course 
 - Economist newsletter
 - [[edX_Climate change - financial risks and opportunities]]

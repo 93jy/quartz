@@ -10,7 +10,7 @@ May 2022, pg. 20 | 2022.08.08
 *Very good article with a lot of new concepts to understand*
 - 2 distinct types of ESG: 
 	- Green, social and sustainability lending (GSS) (more established)
-	- Sustainability-linked lending (SLL) - more flexible (so higher volumes), but could lead to accusations of [[C_Greenwashing]]
+	- Sustainability-linked lending (SLL) - more flexible (so higher volumes), but could lead to accusations of [C_Greenwashing](notes/C_Greenwashing.md)
 - How SLLs work 
 	- Cost of borrowing depends on performance measured against specific sustainability performance targets (SPTs) e.g. greenhouse gas emission reduction 
 	- Economic incentive: ratchet on the margin. Increase (malus) in the coupon if SPT not met / bonus (reduced margin) if met

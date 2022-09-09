@@ -1,7 +1,6 @@
 ---
 title: "Crypto"
 ---
-[[Investment instruments]] | [[Crypto Timeline]]
 
 ### Ideas and thoughts (not for Notion)
 - 2022.08.21 **What goes up must come down**

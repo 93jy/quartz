@@ -2,7 +2,7 @@
 title: "Atomic Habits"
 aliases: "Atomic Habits"
 tags:
-- 
+- Book
 ---
 [Books](notes/Books.md) #book 
 ## The Fundamentals: Why tiny changes make a huge difference

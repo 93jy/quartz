@@ -1,5 +1,6 @@
 ---
-title: "Greenwashing"
+title: Greenwashing
+alias: ["alias"]
 tags:
-- 
+- MentalModel
 ---

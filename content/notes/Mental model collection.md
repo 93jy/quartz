@@ -101,7 +101,7 @@ These are ideas mostly and ways of thinking. Not fully categorised below now
 	- [[C_Survivorship bias]]
 	- [[C_Wrong side of maybe fallacy]]
 	- [[C_Greater fool theory]]
-	- [[2_Incentives|C_Incentives]]
+	- [[2_Incentives|C_Incentives]] [2_Incentives](notes/2_Incentives.md)
 - **Ideas**
 	- [[C_We do not stay the same over time]]
 	- [[C_We have many identities]]
@@ -185,6 +185,6 @@ These are ideas mostly and ways of thinking. Not fully categorised below now
 - [[C_Evolutionary hijacking]]
 - [[C_Redundancy]]
 - [[C_Economies of scale]]
-- [[C_Planning fallacy]]
+- [C_Planning fallacy](notes/C_Planning%20fallacy.md)
 - **[[notes/Climate change, sustainability]]**
-	- [[C_Greenwashing]]
+	- [C_Greenwashing](notes/C_Greenwashing.md)

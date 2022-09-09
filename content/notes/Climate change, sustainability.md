@@ -22,13 +22,13 @@ title: "Climate change, sustainability"
 - This is a [wicked problem](notes/C_Wicked%20environments.md). Many concepts / mental models involved, far ranging 
 - [Incentives](notes/2_Incentives.md) is most of it. Finance plays a big part in these incentives. 
 - [Sustainability reporting](notes/Sustainability%20reporting.md)
-- [Green bonds](Green%20bonds.md)
+- [Green bonds](notes/Green%20bonds.md)
 
 ## Resources
 - [The Actuary: Sustainability articles](notes/The%20Actuary.md#Sustainability%20articles)
 - [[IFOA sustainability application]]
-- IFOA sustainability course 
+- IFOA sustainability course (Oct 2022)
 - Economist newsletter
-- [[edX_Climate change - financial risks and opportunities]]
+- [edX_Climate change - financial risks and opportunities](notes/edX_Climate%20change%20-%20financial%20risks%20and%20opportunities.md)
 - Economist podcast: "To a lesser degree"
 

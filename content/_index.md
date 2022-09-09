@@ -9,7 +9,7 @@ title: Digital Garden
 - [Mental model collection](notes/Mental%20model%20collection.md)
 
 # Sources (types)
-- Articles - file names start with A
+- [Articles - file names start with A](Notes/articles.md)
 - [Books - file names start with B](notes/Books.md)
 - [Mental models and concepts - file names start with C](notes/Mental%20model%20collection.md)
 - [[000_Videos|Videos - file names start with V]]

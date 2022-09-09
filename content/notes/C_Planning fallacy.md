@@ -1,6 +1,7 @@
 ---
 title: "Planning fallacy"
 alias: ["Planning fallacy"]
+tags:
 - MentalModel
 ---
 

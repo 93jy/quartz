@@ -1,6 +1,6 @@
 ---
 title: "Atomic Habits"
-aliases: "Atomic Habits"
+aliases: ["Atomic Habits"]
 tags:
 - Book
 ---

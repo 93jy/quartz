@@ -4,8 +4,7 @@ alias: ["alias"]
 tags:
 - Article
 ---
-[0002 Personal Finance and Investing](notes/0002%20Personal%20Finance%20and%20Investing.md)
-[Financial Horse](notes/Financial%20Horse.md)
+[0002 Personal Finance and Investing](notes/0002%20Personal%20Finance%20and%20Investing.md) | [Financial Horse](notes/Financial%20Horse.md) | [Articles](notes/Articles.md)
 
 2022.09.10 
 - Why the public offer size is so huge
@@ -43,6 +42,4 @@ tags:
 	- Biggest risk: rising interest rates 
 	- If ok with cash locked up for 5 years, it's a decent buy 
 
-
-[X](private/AA_Frasers%20Property%20Green%20Notes%20Review%20(4.49%%20yield,%205-year%20duration)%20--%20Will%20I%20buy%20these%20Retail%20Bonds.md)
-
+[AA_Frasers Property Green Notes Review (4.49 5-year)](private/AA_Frasers%20Property%20Green%20Notes%20Review%20(4.49%205-year).md)

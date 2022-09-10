@@ -1,4 +1,9 @@
-# Podcasts
+---
+title: "000_Podcasts"
+alias: ["Podcasts"]
+tags:
+- 
+---
 [Home](https://93jy.github.io/quartz/)
 
 - [PP_Deep Questions](notes/PP_Deep%20Questions.md)

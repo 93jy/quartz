@@ -1,5 +1,5 @@
 ---
-title: "000_Videos"
+title: "Videos"
 alias: ["Videos"]
 ---
 

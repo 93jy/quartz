@@ -1,6 +1,6 @@
 ---
 title: "Frasers Property Green Notes Review (4.49% yield, 5-year duration) -- Will I buy these Retail Bonds?"
-alias: ["alias"]
+alias: ["Frasers Property Green Notes Review (4.49% yield, 5-year duration) -- Will I buy these Retail Bonds?"]
 tags:
 - Article
 ---

@@ -8,5 +8,5 @@ Up: [Home](notes/Home.md)
 - [[PP_Freakonomics]]
 - [[PP_Next Big Idea]]
 - [[PP_Fall of civilisations podcast]]
-- [[PP_Land of the Giants]]
+- [PP_Land of the Giants](notes/PP_Land%20of%20the%20Giants.md)
 - [PP_The Drive](notes/PP_The%20Drive.md)

@@ -4,6 +4,8 @@ alias: ["618 Roelof Botha"]
 tags:
 - 
 ---
+[Tim Ferriss Show](notes/PP_Tim%20Ferriss%20Show.md)
+
 2022.09.10 
 - This guy is a south african actuary! What a pleasant surprise, it's a rare day that I hear 'actuary' mentioned on the podcasts I listen to 
 - Decision making: as a VC, you will be making mistakes no doubt. The regrets are the ones you miss out on, given the asymmetry of the bets 

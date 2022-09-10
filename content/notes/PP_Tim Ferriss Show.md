@@ -1,8 +1,8 @@
 ---
 title: "The Tim Ferriss Show"
-alias: ["PP_Tim Ferriss Show"]
+alias: ["Tim Ferriss Show"]
 tags:
 - Podcast
 ---
 
-- [[618 Roelof Botha]]
+- [618 Roelof Botha](notes/618%20Roelof%20Botha.md)

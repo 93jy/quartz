@@ -1,5 +1,6 @@
 # Podcasts
-Up: [Home](notes/Home.md)
+[Home](https://93jy.github.io/quartz/)
+
 - [PP_Deep Questions](notes/PP_Deep%20Questions.md)
 - [[PP_Productivity Show]]
 - [[PP_The Knowledge Project]]

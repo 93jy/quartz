@@ -9,7 +9,8 @@ enableCallouts: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: true
+# recent notes does not work 2022.09.10
+enableRecentNotes: false
 enableGitHubEdit: false
 # GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
 enableSemanticSearch: false

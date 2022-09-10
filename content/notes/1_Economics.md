@@ -4,10 +4,9 @@ alias: ["alias"]
 tags:
 - 
 ---
-Up: [[0000 Random topics directory]]
+Up: [0000 Random topics directory](notes/0000%20Random%20topics%20directory.md)
 
-
-
+[Test](notes/Test.md)
 
 ## Topics
 - [2_Monetary policy](notes/2_Monetary%20policy.md)

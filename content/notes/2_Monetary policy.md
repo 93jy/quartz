@@ -1,6 +1,6 @@
 ---
 title: "Monetary policy"
-alias: ["alias"]
+alias: ["Monetary policy", "monetary policy"]
 tags:
 - 
 ---

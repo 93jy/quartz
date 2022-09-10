@@ -12,7 +12,7 @@ title: Digital Garden
 - [Articles - file names start with A](Notes/articles.md)
 - [Books - file names start with B](notes/Books.md)
 - [Mental models and concepts - file names start with C](notes/Mental%20model%20collection.md)
-- [[000_Videos|Videos - file names start with V]]
+- [Videos - file names start with V](notes/000_Videos.md)
 - [[000_Podcasts|Podcasts - file names start with P]]
 - [[000_Entertainment|Entertainment (shows, movies) - file names start with E]]
 - Industries, companies, religions, items, big *topics: 2_

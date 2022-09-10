@@ -19,6 +19,8 @@ title: "Books"
 | [[B_This Changes Everything]]  | Still reading       | 2022.01.10       |
 |[B_Make Time](notes/B_Make%20Time.md)                | WIP                 | 2022.01.10       | 
 [The Smartest Guys in the Room](notes/The%20Smartest%20Guys%20in%20the%20Room.md)
+[Meditations](notes/B_Meditations.md)
+
 
 ## Stalled 
 

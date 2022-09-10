@@ -19,11 +19,11 @@ title: Digital Garden
 
 # Themes (start with 000x)
 - *[0000 Random topics directory](notes/0000%20Random%20topics%20directory.md)* 
-- [[0001 Work]]
+- [0001 Work](notes/0001%20Work.md)
 - [0002 Personal Finance and Investing](notes/0002%20Personal%20Finance%20and%20Investing.md)
 - [[0003 Personal development]]
 - [[0004 Career]]
-- [[0005 Health]]
+- [0005 Health](notes/0005%20Health.md)
 - [[0006 Studying]]
 - [[0007 Mindfulness]]
 

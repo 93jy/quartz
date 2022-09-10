@@ -1,6 +1,8 @@
 ---
 title: "Books"
 ---
+[Home](https://93jy.github.io/quartz/)
+
 I read quite a number of books, perhaps too many falling under the category 'self development'. Although nobody is going to read these pages, having them publicly available psychologically forces me to maintain a certain minimum standard if they are to find their way online. 
 
 ## In progress
@@ -13,7 +15,7 @@ I read quite a number of books, perhaps too many falling under the category 'sel
 | [[B_Poor Economics]]                    | Still reading       | 2021.11.14-      |
 | [[B_The Uninhabitable Earth]]           | WIP                 | 2021.12.03-      |
 | [[B_A Guide To The Good Life]]          | WIP                 | 2021.12.18-      |
-| [B_Antifragile](notes/B_Antifragile.md) | Still reading       | 2021.12.20-      |
+| [Antifragile](notes/B_Antifragile.md) | Still reading       | 2021.12.20-      |
 | [B_Peak Performance](notes/B_Peak%20Performance.md)                  | WIP                 | 2021.12.22       |
 | [[B_This Changes Everything]]           | Still reading       | 2022.01.10       |
 | [B_Make Time](notes/B_Make%20Time.md)   | WIP                 | 2022.01.10       |
@@ -21,6 +23,7 @@ I read quite a number of books, perhaps too many falling under the category 'sel
 - [Meditations](notes/B_Meditations.md)
 - [The Rise and Fall of the Third Reich](notes/B_The%20Rise%20and%20Fall%20of%20the%20Third%20Reich.md)
 - [How to Read a Book](notes/B_How%20to%20Read%20a%20Book.md)
+- [The Personal MBA](notes/B_The%20Personal%20MBA.md)
 
 ## Stalled 
 

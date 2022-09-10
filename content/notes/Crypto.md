@@ -1,7 +1,8 @@
 ---
 title: "Crypto"
+alias: ["crypto"]
 ---
-
+[Home](https://93jy.github.io/quartz/)
 ### Ideas and thoughts (not for Notion)
 - 2022.08.21 **What goes up must come down**
 	- Really don't get drawn in by the hype, if ETH surges up, it will come down equally quickly, when will I learn this #lesson? 

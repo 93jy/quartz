@@ -1,3 +1,10 @@
+---
+title: "{{title}}"
+alias: ["{{title}}"]
+tags:
+- Book
+---
+
 [Books](notes/Books.md)
 Date summarised: WIP
 ## The book in 3 sentences

@@ -1,5 +1,5 @@
 ---
-alias: ["000", "Home"]
+alias: ["000", "Home old"]
 ---
 # INDEX
 [[_Homepage]]

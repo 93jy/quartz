@@ -1,6 +1,8 @@
 ---
 title: "Books"
 ---
+I read quite a number of books, perhaps too many falling under the category 'self development'. Although nobody is going to read these pages, having them publicly available psychologically forces me to maintain a certain minimum standard if they are to find their way online. 
+
 ## In progress
 | Book                                    | Status              | Date             |
 | --------------------------------------- | ------------------- | ---------------- |
@@ -18,7 +20,7 @@ title: "Books"
 - [The Smartest Guys in the Room](notes/The%20Smartest%20Guys%20in%20the%20Room.md)
 - [Meditations](notes/B_Meditations.md)
 - [The Rise and Fall of the Third Reich](notes/B_The%20Rise%20and%20Fall%20of%20the%20Third%20Reich.md)
-
+- [How to Read a Book](notes/B_How%20to%20Read%20a%20Book.md)
 
 ## Stalled 
 

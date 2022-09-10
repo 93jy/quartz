@@ -1,5 +1,5 @@
 ---
-title: "000_Podcasts"
+title: "Podcasts"
 alias: ["Podcasts"]
 tags:
 - 

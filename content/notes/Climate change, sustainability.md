@@ -1,7 +1,7 @@
 ---
 title: "Climate change, sustainability"
 ---
-
+[Home](https://93jy.github.io/quartz/)
 ## Concepts
 - What is the problem: carbon emissions → higher temperatures → many effects
 - [Carbon pricing](notes/Carbon%20pricing.md)

@@ -13,7 +13,7 @@ Now it's just general knowledge stuff gathered from various random sources.
 [[1_Culture]]
 [[1_Sociology]]
 
-[[1_Economics]]
+[1_Economics](1_Economics.md)
 [[1_Business]]
 [[1_Education (as a system)|Education]]
 

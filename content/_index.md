@@ -13,12 +13,12 @@ title: Digital Garden
 - [Books - file names start with B](notes/Books.md)
 - [Mental models and concepts - file names start with C](notes/Mental%20model%20collection.md)
 - [Videos - file names start with V](notes/000_Videos.md)
-- [[000_Podcasts|Podcasts - file names start with P]]
+- [000_Podcasts|Podcasts - file names start with P](000_Podcasts%7CPodcasts%20-%20file%20names%20start%20with%20P.md)
 - [[000_Entertainment|Entertainment (shows, movies) - file names start with E]]
 - Industries, companies, religions, items, big *topics: 2_
 
 # Themes (start with 000x)
-- *[[0000 Random topics directory]]* 
+- *[0000 Random topics directory](0000%20Random%20topics%20directory.md)* 
 - [[0001 Work]]
 - [[0002 Personal Finance and Investing]]
 - [[0003 Personal development]]

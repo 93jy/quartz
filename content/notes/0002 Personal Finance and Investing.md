@@ -9,7 +9,7 @@ Authors:
 
 Very good article:
 - [[Why do stocks keep going up_How to explain it – And will they keep going up]]
-- [[A_Is the COVID19 crisis over for stocks V shaped recovery]] [[Financial Horse]]
+- [[A_Is the COVID19 crisis over for stocks V shaped recovery]] 
 - [[Investment instruments]]
 
 ### Topical

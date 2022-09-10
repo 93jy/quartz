@@ -11,7 +11,7 @@ tags:
 	- Usually, big debt offerings target HNW and institutional investors. Private placement takes up the bulk of the issue, then retail investors get the scraps. Here it's the opposite 
 	- The company is using the institutional tranche mainly for **bookbuilding (to determine price)** and give the bulk to retail. 2 possible reasons 
 		- Being nice to retail investors 
-		- No demand from institutional investors. *Institutional liquidity is drying up globally with tightening [Monetary policy](Monetary%20policy)*. 
+		- No demand from institutional investors. *Institutional liquidity is drying up globally with tightening [2_Monetary policy](notes/2_Monetary%20policy.md)*. 
 - Price benchmarking
 	- 1.4% yield spread against 10-year SGS, or 1.5% yield spread against 5-year SGS 
 	- Average yield spread for investment grade bonds (US) ~1.5%
@@ -42,4 +42,4 @@ tags:
 	- Biggest risk: rising interest rates 
 	- If ok with cash locked up for 5 years, it's a decent buy 
 
-[AA_Frasers Property Green Notes Review (4.49 5-year)](private/AA_Frasers%20Property%20Green%20Notes%20Review%20(4.49%205-year).md)
+[X](private/AA_Frasers%20Property%20Green%20Notes%20Review%20(4.49%205-year).md)

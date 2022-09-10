@@ -1,5 +1,5 @@
 ---
-title: "PP_The Drive"
+title: "The Drive"
 alias: ["The Drive"]
 tags:
 - Podcast
@@ -8,5 +8,3 @@ tags:
 
 Peter Attia 
 - 2022.09.06 Mike Joyner - exercise is a better indicator than diet? So the importance of diet maybe overstated? This is a counterpoint to the obsession with diet. 
-
-[[0005 Health]]

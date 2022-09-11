@@ -1,6 +1,6 @@
 ---
 title: Network effects
-alias: ["network effects"]
+alias: ["Network effects", "network effects"]
 tags:
 - MentalModel
 ---

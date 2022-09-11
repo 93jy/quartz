@@ -3,7 +3,13 @@ title: "Crypto"
 alias: ["crypto"]
 ---
 [Home](https://93jy.github.io/quartz/)
-### Ideas and thoughts (not for Notion)
+
+[2_Tokenomics](notes/2_Tokenomics.md)
+
+
+More stuff in notion collected over the months. 
+
+### Ideas and thoughts
 - 2022.08.21 **What goes up must come down**
 	- Really don't get drawn in by the hype, if ETH surges up, it will come down equally quickly, when will I learn this #lesson? 
 
@@ -32,7 +38,6 @@ alias: ["crypto"]
 - 'Monetary policy' and why everything is wrong with what the Fed is doing etc. It's not like such complex monetary policy issues can be reduced to codified smart contracts right? 
 - What do people actually use crypto for right now? The defi aspect is mostly just for farming, staking, LP right? Do people actually use it for 'real world' purposes like take a loan for their house? If not it just seems to be an 'internal' economy and zero sum game kind of thing. 
 
-
 ### Concepts
 - [[Staking]], mining 
 - [[Defi]] 
@@ -47,6 +52,8 @@ alias: ["crypto"]
 - [[EVM]]
 - Privacy, data protection - solved by NFTs?
 - ETH as a security 
+- [Incentives](notes/2_Incentives.md) 
+- [Network effects](notes/C_Network%20effects.md)
 
 ### Tokens 
 - [[Ethereum]]

@@ -4,7 +4,7 @@ alias: ["crypto"]
 ---
 [Home](https://93jy.github.io/quartz/)
 
-[2_Tokenomics](notes/2_Tokenomics.md)
+[Tokenomics](notes/2_Tokenomics.md)
 
 
 More stuff in notion collected over the months. 

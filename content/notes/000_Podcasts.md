@@ -17,5 +17,5 @@ tags:
 - [PP_Land of the Giants](notes/PP_Land%20of%20the%20Giants.md)
 - [PP_The Drive](notes/PP_The%20Drive.md)
 
+Standard self development / productivity fare. All these podcasts interview top performers in their respective fields. One day, in another life perhaps, I will create a podcast for 'Ordinary People' about how the rest of us lead (hopefully) interesting, fulfilling lives...
 
-All these podcasts interview top performers in their respective fields. One day, in another life perhaps, I will create a podcast for 'Ordinary People' and the rest of us lead interesting, fulfilled lives (hopefully)...

@@ -1,6 +1,6 @@
 ---
-title: Greenwashing
-alias: ["greenwashing"]
+title: stewardship
+alias: ["stewardship"]
 tags:
 - MentalModel
 ---

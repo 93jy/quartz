@@ -4,8 +4,7 @@ tags:
 - article 
 - TheActuaryMag
 ---
-[Climate change, sustainability](notes/Climate%20change,%20sustainability.md) | [The Actuary](notes/The%20Actuary.md)
-May 2022, p14 | 2022.08.01 
+[Climate change, sustainability](notes/Climate%20change,%20sustainability.md) | [The Actuary](notes/The%20Actuary.md) | May 2022 p14 | 2022.08.01 
 - **Finance touches upon every aspect of every industry, so by directing capital flows into green activity we really could drive this transition**
 - GreenWatch uses AI / ML to analyse sustainability claims and give companies scores 
 - 'Net zero' claims: 4 focus areas

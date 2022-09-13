@@ -4,9 +4,7 @@ tags:
 - article 
 - TheActuaryMag
 ---
-[Climate change, sustainability](notes/Climate%20change,%20sustainability.md) | [The Actuary](notes/The%20Actuary.md)
-
-May 2022, pg. 20 | 2022.08.08 
+[Climate change, sustainability](notes/Climate%20change,%20sustainability.md) | [The Actuary](notes/The%20Actuary.md) | May 2022 p20 | 2022.08.08 
 *Very good article with a lot of new concepts to understand*
 - 2 distinct types of ESG: 
 	- Green, social and sustainability lending (GSS) (more established)

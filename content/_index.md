@@ -2,12 +2,13 @@
 title: Digital Garden
 ---
 Hello
-![](notes/images/E58C52D7-8E42-45F9-AE48-52403C6E264F_1_105_c.jpeg)
 # Start here
 - [Climate change, sustainability](notes/Climate%20change,%20sustainability.md)
 - [Crypto](notes/Crypto.md)
 - [Books](notes/Books.md)
 - [Mental model collection](notes/Mental%20model%20collection.md)
+
+![](notes/images/E58C52D7-8E42-45F9-AE48-52403C6E264F_1_105_c.jpeg)
 
 # Sources (types)
 - [Articles](Notes/articles.md)

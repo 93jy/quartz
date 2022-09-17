@@ -5,7 +5,7 @@ tags:
 - Article
 ---
 
-Binance 
+Binance | [Articles](notes/Articles.md) | [Tokenomics](notes/2_Tokenomics.md)
 
 ## TLDR: Key takeaways (page 4)
 - CEXes still dominate; DEX/CEX ratio is only ~13% (July 2022)

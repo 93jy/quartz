@@ -79,12 +79,12 @@ These are ideas mostly and ways of thinking. Not fully categorised below now
 	- [[C_Many ways to make money even in an irrational market]]
 - **Business, economics**
 	- [[C_Winner takes all]]
-	- [[C_Wicked environments]]
+	- [Wicked environments](notes/C_Wicked%20environments.md)
 	- [[C_Stratification of market]]
 	- [[C_supply shocks]]
 	- [[C_Value Chain]]
 	- [[C_Subscription models]]
-	- [[C_Network effects]]
+	- [Network effects](notes/C_Network%20effects.md)
 - **Mastery**
 	- [[C_10000 Hour Rule]]
 	- [[C_Feedback]]
@@ -188,3 +188,6 @@ These are ideas mostly and ways of thinking. Not fully categorised below now
 - [C_Planning fallacy](notes/C_Planning%20fallacy.md)
 - **[[notes/Climate change, sustainability]]**
 	- [C_Greenwashing](notes/C_Greenwashing.md)
+	- [stewardship](notes/C_Stewardship.md)
+- [Optionality](notes/C_Optionality.md)
+- 

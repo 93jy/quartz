@@ -88,3 +88,6 @@ Date summarised: WIP
 - Some extreme instructions on reciting the thing you want right before bed and having the faith that it would come true someday (p74)
 - [In caps] *Read the entire chapter aloud once every night, until you become thoroughly convinced that the principle of autosuggestion is sound, that it will accomplish for you all that has been claimed for it*
 
+### 5 - Specialised Knowledge - personal experiences or observations
+- Knowledge will not attract money unless it is organised and intelligently directed through practical *plans of action* to the *definite end* of accumulation of money. Knowledge is only *potential* power
+	- Contrast with [Optionality](notes/C_Optionality.md): must everything have a purpose? 

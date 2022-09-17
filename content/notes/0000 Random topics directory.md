@@ -12,12 +12,12 @@ Now it's just general knowledge stuff gathered from various random sources.
 - [[1_Psychology]]
 - [[1_Culture]]
 - [[1_Sociology]]
-
 - [1_Economics](notes/1_Economics.md)
 - [[1_Business]]
 - [[1_Education (as a system)|Education]]
 - [2_Stoicism](notes/2_Stoicism.md)
 - [[1_Chess]]
+
 ### Places
 - [1_Places](notes/1_Places.md)
 - [[Singapore]]

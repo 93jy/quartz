@@ -5,7 +5,7 @@ tags:
 - Book
 - Stoicism
 ---
-[Books](notes/Books.md)
+[Books](notes/Books.md) | [Stoicism](notes/2_Stoicism.md)
 Date summarised: WIP
 ## The book in 3 sentences
 ## Impressions

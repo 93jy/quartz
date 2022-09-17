@@ -24,6 +24,7 @@ I read quite a number of books, perhaps too many falling under the category 'sel
 - [The Rise and Fall of the Third Reich](notes/B_The%20Rise%20and%20Fall%20of%20the%20Third%20Reich.md)
 - [How to Read a Book](notes/B_How%20to%20Read%20a%20Book.md)
 - [The Personal MBA](notes/B_The%20Personal%20MBA.md)
+- [A Guide To The Good Life](notes/B_A%20Guide%20To%20The%20Good%20Life.md)
 
 ## Stalled 
 

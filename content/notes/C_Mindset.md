@@ -6,7 +6,7 @@ tags:
 ---
 [Mental model collection](notes/Mental%20model%20collection.md)
 
-[Autosuggestion](notes/B_Think%20and%20Grow%20Rich.md#4%20-%20Autosuggestion%20-%20the%20medium%20for%20influencing%20the%20subconscious%20mind%20Mindset%20notes%20C_Mindset%20md)
+[Autosuggestion](notes/B_Think%20and%20Grow%20Rich.md#4%20-%20Autosuggestion%20-%20the%20medium%20for%20influencing%20the%20subconscious%20mind)
 
 ## On [[Stress]]
 [[BA - Upside of Stress - 1 - how to change your mind about stress]]

@@ -69,8 +69,8 @@ Date summarised: WIP
 
 
 
-### 4 - Autosuggestion - the medium for influencing the subconscious mind ([Mindset](notes/C_Mindset.md))
-[Locus of control](notes/C_Locus%20of%20control.md), [[C_Thinking regulates actions]]
+### 4 - Autosuggestion - the medium for influencing the subconscious mind
+[Mindset](notes/C_Mindset.md), [Locus of control](notes/C_Locus%20of%20control.md), [[C_Thinking regulates actions]]
 - **My summary** 2022.08.21
 	- You have control over your thoughts that you allow into your subconscious, and the thoughts that enter your subconscious are very powerful.
 		- *Autosuggestion is the **agency of control** through which an individual may voluntarily feed the subconscious mind thoughts of a creative nature or, by neglect, permit thoughts of a destructive nature to find their way into this rich garden of the mind*
@@ -78,7 +78,7 @@ Date summarised: WIP
 	- Concentrate on your desire until it becomes a burning obsession
 - **2022.08.21 thoughts** In the past this seems like nonsense, but perhaps now I am more appreciating the message that the **thoughts I have really control a big part of what I really experience**. A lot of the game is mental, given my very strong propensity to #overthinking
 	- There is still quite a bit of nonsense ('Where failure is experienced, it is the individual, not the method, which has failed') but some parts ring truer to me now based on my current life experiences 
-	- Have not read the other chapters of the book as was interested in this one as I realised the negative thought loops in my head. But this book keeps talking about having a fixed $ target in your mind and to let that seep into your subconscious. The unabashed pursuit of money seems a bit crass and makes me uncomfortable. How can I go to bed each night saying aloud 'I will have $xx million by 20xx' LOL. Is that the sure path to riches? 
+	- Have not read the other chapters of the book as was interested in this one as I realised the negative thought loops in my head. But this book keeps talking about having a fixed dollar target in your mind and to let that seep into your subconscious. The unabashed pursuit of money seems a bit crass and makes me uncomfortable. How can I go to bed each night saying aloud 'I will have $xx million by 20xx' LOL. Is that the sure path to riches? 
 - **No thought** (whether negative or positive) **can enter the subconscious mind without the aid of the principle of autosuggestion**
 	 - All sense impressions which are perceived through the 5 senses are stopped by the *conscious* thinking mind, and may either be passed on to the subconscious mind or rejected at will. The conscious faculty serves, therefore, as the outer guard to the approach of the subconscious. 
 - You must communicate the object of your desire directly to your subconscious mind in a spirit of absolute **faith**. Your subconscious mind recognises and acts *only upon thoughts that have been well mixed with **emotion or feeling***. Plain, unemotional words do *not* influence the subconscious mind. The words must be well emotionalised with **belief**. 

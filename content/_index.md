@@ -11,11 +11,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - [Mental model collection](notes/Mental%20model%20collection.md)
 
 # Sources (types)
-- [Articles - file names start with A](Notes/articles.md)
-- [Books - file names start with B](notes/Books.md)
-- [Mental models and concepts - file names start with C](notes/Mental%20model%20collection.md)
-- [Videos - file names start with V](notes/000_Videos.md)
-- [Podcasts - file names start with P](notes/000_Podcasts.md)
+- [Articles](Notes/articles.md)
+- [Books](notes/Books.md)
+- [Mental models and concepts](notes/Mental%20model%20collection.md)
+- [Videos](notes/000_Videos.md)
+- [Podcasts](notes/000_Podcasts.md)
 - [[000_Entertainment|Entertainment (shows, movies) - file names start with E]]
 - Industries, companies, religions, items, big *topics: 2_
 

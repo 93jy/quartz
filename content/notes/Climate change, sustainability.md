@@ -7,7 +7,7 @@ title: "Climate change, sustainability"
 - [Carbon pricing](notes/Carbon%20pricing.md)
 - Who foots the bill: wealthy or developing nations?
 	- how do wealthy nations subsidise the poor ones 
-- [C_Tipping point](notes/C_Tipping%20point.md): the change can come all at once, we don't know if we have reached that point yet
+- [Tipping point](notes/C_Tipping%20point.md): the change can come all at once, we don't know if we have reached that point yet
 - Delay in results
 	- releasing carbon into the atmosphere - effects would only be seen in the future
 - Irreversibility of changes 
@@ -32,3 +32,6 @@ title: "Climate change, sustainability"
 - [edX_Climate change - financial risks and opportunities](notes/edX_Climate%20change%20-%20financial%20risks%20and%20opportunities.md)
 - Economist podcast: "To a lesser degree"
 
+### Books
+- [B_The Uninhabitable Earth](B_The%20Uninhabitable%20Earth)
+- [B_This Changes Everything](B_This%20Changes%20Everything)

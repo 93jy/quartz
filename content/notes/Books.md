@@ -50,5 +50,6 @@ I read quite a number of books, perhaps too many falling under the category 'sel
 - https://fs.blog/reading-2020/
 - https://ryanholiday.net/the-reading-list/
 
-
+### Thoughts
 - [ ] Perhaps a one line summary of each book would be helpful
+- The urge to summarise books or add content to this page takes away the joy of reading. How to find the balance? 2022.09.17 

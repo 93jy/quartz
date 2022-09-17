@@ -11,6 +11,10 @@ I read quite a number of books, perhaps too many falling under the category 'sel
 - [The Smartest Guys in the Room](notes/The%20Smartest%20Guys%20in%20the%20Room.md)
 - [The Rise and Fall of the Third Reich](notes/B_The%20Rise%20and%20Fall%20of%20the%20Third%20Reich.md)
 - [Think and Grow Rich](notes/B_Think%20and%20Grow%20Rich.md)
+- [Good Economics for Hard Times](notes/B_Good%20Economics%20for%20Hard%20Times.md)
+- [The Practice of Groundedness](notes/B_The%20Practice%20of%20Groundedness.md)
+
+
 ## Summary in progress
 | Book                                                                        | Status              | Date             |
 | --------------------------------------------------------------------------- | ------------------- | ---------------- |

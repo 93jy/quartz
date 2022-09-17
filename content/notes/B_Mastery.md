@@ -1,5 +1,5 @@
 ---
-title: "B_Mastery"
+title: "Mastery"
 alias: ["Mastery"]
 tags:
 - Book

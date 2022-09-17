@@ -17,7 +17,7 @@ Date summarised: WIP
 
 ---
 ## Summary + Notes
-##### 1 - The power of thought
+### 1 - The power of thought
 - Perhaps linked to [[C_Priming]]. If you keep thinking about something, **you are more ready to pounce and see an opportunity** 
 - Many of the most successful people: their greatest success came just one step beyond the point at which defeat had overtaken them
 - **Our brains become magnetised with the dominating thoughts we hold in our minds**
@@ -25,7 +25,7 @@ Date summarised: WIP
 - 2022.08.25 An overly simplified message: just think about success and you will get it 
 	- The danger of such books is that if you don't succeed, it becomes your fault... And that's not how it works in the real world. So many circumstances are still beyond your control, despite how desperately you want 'success'.
 
-##### 2 - Desire - the starting point of all achievement 
+### 2 - Desire - the starting point of all achievement 
 - **6 steps...**
 	- Fix in your mind the exact amount of money you desire (be definite, not just 'plenty of money')
 	- Determine exactly what you intend to give in return for the money you desire 
@@ -42,7 +42,7 @@ Date summarised: WIP
 	- *So is there no downside to optimism?* It is free to be optimistic, and the mindset is much better than a pessimst one
 	- Personal application: to have more belief in myself,  one thing I am lacking. The confidence that if I keep doing what I'm doing, I will succeed and 'go far'. The belief that I have 'potential', so stop doubting and overthinking from the detractors, and the distractions from other careers.
 
-##### 3 - Faith - visualising and believing in the attainment of desire
+### 3 - Faith - visualising and believing in the attainment of desire
 - 2022.09.01 thoughts 
 	- The text is in my opinion hyperbolic but still there are things to learn from it, especially applicable for an overthinker like me. Just have the right positive thoughts, have some faith, and see where that leads. Optimism is free after all (or perhaps not, if it leads to foolish life choices)
 	- Just a good reminder that you are what you think, and wishy-washy 'faith' and 'emotion' play a big part also
@@ -68,14 +68,14 @@ Date summarised: WIP
 
 
 
-##### 4 - Autosuggestion - the medium for influencing the subconscious mind ([[C_Mindset]])
+### 4 - Autosuggestion - the medium for influencing the subconscious mind ([Mindset](notes/C_Mindset.md))
 [Locus of control](notes/C_Locus%20of%20control.md), [[C_Thinking regulates actions]]
-- ==**My summary** 2022.08.21== 
+- **My summary** 2022.08.21
 	- You have control over your thoughts that you allow into your subconscious, and the thoughts that enter your subconscious are very powerful.
 		- *Autosuggestion is the **agency of control** through which an individual may voluntarily feed the subconscious mind thoughts of a creative nature or, by neglect, permit thoughts of a destructive nature to find their way into this rich garden of the mind*
 	- Have **faith**, even a childlike one (the most powerful of emotions), that this autosuggestion thing would work. Don't wait for a definite plan to let your subconscious mind think you have the money (or whatever)
 	- Concentrate on your desire until it becomes a burning obsession
-- ==**2022.08.21 thoughts**==: In the past this seems like nonsense, but perhaps now I am more appreciating the message that the **thoughts I have really control a big part of what I really experience**. A lot of the game is mental, given my very strong propensity to #overthinking
+- **2022.08.21 thoughts** In the past this seems like nonsense, but perhaps now I am more appreciating the message that the **thoughts I have really control a big part of what I really experience**. A lot of the game is mental, given my very strong propensity to #overthinking
 	- There is still quite a bit of nonsense ('Where failure is experienced, it is the individual, not the method, which has failed') but some parts ring truer to me now based on my current life experiences 
 	- Have not read the other chapters of the book as was interested in this one as I realised the negative thought loops in my head. But this book keeps talking about having a fixed $ target in your mind and to let that seep into your subconscious. The unabashed pursuit of money seems a bit crass and makes me uncomfortable. How can I go to bed each night saying aloud 'I will have $xx million by 20xx' LOL. Is that the sure path to riches? 
 - **No thought** (whether negative or positive) **can enter the subconscious mind without the aid of the principle of autosuggestion**

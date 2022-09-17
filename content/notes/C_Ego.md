@@ -1,6 +1,6 @@
 ---
 title: Ego
-alias: ["alias"]
+alias: ["Ego"]
 tags:
 - MentalModel
 ---

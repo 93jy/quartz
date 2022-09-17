@@ -10,6 +10,7 @@ Date summarised: WIP
 ## Impressions
 - 2022.08.21: this may be a bit outdated and outrageous (crassly focusing on the pursuit of money), but it is probably a good self help book that is motivational that I could read in the morning to start my day... 
 - 2022.09.01 looking at the **title** of the book - literally 'think and grow rich'. That's what this book is about. Thinking is enough to make you grow rich. So the book is a lot about the power of your mind / thoughts to help you attain some goals. 
+- 2022.09.17 the style of writing similar to books from that era (How to Win Friends and Influence People?)... How to write so elegantly like this? 
 ## How the book changed me
 *How my life / behaviour / thoughts / ideas have changed as a result of reading the book*
 

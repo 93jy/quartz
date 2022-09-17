@@ -1,5 +1,5 @@
 ---
-title: "B_Antifragile"
+title: "Antifragile (book)"
 alias: ["Antifragile (book)"]
 tags:
 - Book

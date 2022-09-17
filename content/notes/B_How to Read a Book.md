@@ -16,7 +16,8 @@ Date summarised: WIP
 ---
 ## Summary + Notes
 - 2022.07.23 Reading for information vs reading for understanding: this book is about reading for *understanding*
-##### 7: X-raying a book
+
+### 7: X-raying a book
 - *Every book has a skeleton between its covers. Your job as an analytical reader is to find it.*
 - **Rule 2: State the unity of the whole book in a single sentence, or at most a few sentences (a short paragraph)**
 - **Rule 3: Set forth the major parts of the book, and show how these are organised into a whole, by being ordered to one another and to the unity of the whole**

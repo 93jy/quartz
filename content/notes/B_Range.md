@@ -1,15 +1,15 @@
 ---
-title: "B_Range"
+title: "Range"
 alias: ["Range (book)"]
 tags:
 - Book
 ---
 [Books](notes/Books.md) #book [[BK_Range]]
 Date summarised: 2021.10.03 (simple)
-## The book in 3 sentences
-- In a world of hyperspecialisation, having range / being a generalist is still useful because this world is a [wicked environment](notes/C_Wicked%20environments.md), not a kind one
-- Head starts are overrated, and it is okay to meander along with experimentation (but knowing when to quit)
-- Deliberately making time to learn something outside your domain regularly could pay off one day, even if it may not seem apparent today, when you can connect the dots across domains 
+> [!tldr] The book in 3 sentences
+> - In a world of hyperspecialisation, having range / being a generalist is still useful because this world is a [wicked environment](notes/C_Wicked%20environments.md), not a kind one
+> - Head starts are overrated, and it is okay to meander along with experimentation (but knowing when to quit)
+> - Deliberately making time to learn something outside your domain regularly could pay off one day, even if it may not seem apparent today, when you can connect the dots across domains 
 ## Application
 *How my life / behaviour / thoughts / ideas have changed as a result of reading the book*
 2021.10.03

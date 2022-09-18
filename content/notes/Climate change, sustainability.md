@@ -33,5 +33,5 @@ title: "Climate change, sustainability"
 - Economist podcast: "To a lesser degree"
 
 ### Books
-- [B_The Uninhabitable Earth](B_The%20Uninhabitable%20Earth)
-- [B_This Changes Everything](B_This%20Changes%20Everything)
+- [The Uninhabitable Earth](B_The%20Uninhabitable%20Earth)
+- [This Changes Everything](B_This%20Changes%20Everything)

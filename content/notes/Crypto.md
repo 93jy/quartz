@@ -12,7 +12,6 @@ More stuff in notion collected over the months.
 ### Ideas and thoughts
 - 2022.08.21 **What goes up must come down**
 	- Really don't get drawn in by the hype, if ETH surges up, it will come down equally quickly, when will I learn this #lesson? 
-
 2022.07.18
 - https://crypto-anonymous-2021.medium.com/the-bit-short-inside-cryptos-doomsday-machine-f8dcf78a64d3
 	- Interesting point on why the smart tech bros may be blind to any crypto 'fraud': they don't have the radar, because the startup industry is very illiquid - and fraudsters work best in liquid markets (which crypto is)
@@ -31,12 +30,13 @@ More stuff in notion collected over the months.
 - The promise of Defi: 
 	- is the current financial system really so broken? Is it just a political argument to fix the current system with this permissionless system? 
 	- 100% transparent and trustless. How to deal with KYC AML? 
-2022.07.16
-- *'Algorithmic monetary policy beats the current human-driven monetary policy from the Fed'.* I surely don't know enough about macro economics to make a thoughtful comment, but such promises touted by crypto believers strikes me as a little naive. How can it be so easy to replicate this highly complex thing using algorithms and formulas? If it were so easy, it would have been done without crypto a long time ago. And code can only be as smart as the humans who make it. Surely these developers are geniuses in their own right, but who is to say if they can beat career policy wonks who have done economic policy for decades? How does crypto help facilitate smarter monetary policy? 
+
+##### How is crypto a better alternative to 'tradfi' / 'trad' monetary policy / 'trad' etc.?
+**What does crypto actually want to solve that isn't really working right now in the world?**
+- *'Algorithmic monetary policy beats the current human-driven monetary policy from the Fed'.* I surely don't know enough about macro economics to make a thoughtful comment, but such promises touted by crypto believers strike me as a little naive. How can it be so easy to replicate this highly complex thing using algorithms and formulas? If it were so easy, it would have been done without crypto a long time ago. And code can only be as smart as the humans who make it. Surely these developers are geniuses in their own right, but who is to say if they can beat career policy wonks who have done economic policy for decades? How does crypto help facilitate smarter monetary policy? 2022.09.18 
+	- 'Monetary policy' and why everything is wrong with what the Fed is doing etc. It's not like such complex monetary policy issues can be reduced to codified smart contracts right? 
 - The whole idea of smart contracts / code being law, and how that is superior to our normal law and contracts. e.g. when Celsius collapsed they paid off all the defi loans because they had to go by the code. I still don't completely buy it that this is better, what about more complex case by case situations? Not everything is so simple and black and white is it? If not why do we need lawyers? 
 - Decentralisation / libertarianism: is it ultimately just a political ideology argument that all this decentralisation is good? Is decentralisation actually such a good thing - can human systems function when everything is democratised e.g. DAOs - may not be the most efficient way to get things done 
-- What does crypto actually want to solve that isn't really working right now in the world?
-- 'Monetary policy' and why everything is wrong with what the Fed is doing etc. It's not like such complex monetary policy issues can be reduced to codified smart contracts right? 
 - What do people actually use crypto for right now? The defi aspect is mostly just for farming, staking, LP right? Do people actually use it for 'real world' purposes like take a loan for their house? If not it just seems to be an 'internal' economy and zero sum game kind of thing. 
 
 ### Concepts

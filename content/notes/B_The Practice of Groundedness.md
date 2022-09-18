@@ -17,7 +17,7 @@ Contrast against [Think and Grow Rich](notes/B_Think%20and%20Grow%20Rich.md)
 ## Summary + Notes
 
 ### 4 - Be Patient and You'll Get There Faster
-- *[Trusting the Process](notes/C_Trust%20the%20Process.md), [Commission bias](notes/C_Commission%20bias.md)*
+- *[Trusting the Process](notes/C_Trust%20the%20Process.md), [Commission bias](notes/C_Commission%20bias.md), [Slight edge](notes/C_Slight%20edge.md)*
 > [!tldr] Thoughts
 >
 > 2022.09.17: Everyone around seems to be getting ahead with their lives, going to interesting places. But perhaps **everyone runs his/her own race** and there is no need to compare. Just showing up and 'trusting the process', with faith that eventually things would work out, is perhaps more effective than feeling fomo and unsettled by what others are doing. This is a timely reminder why [comparison](notes/C_The%20greatest%20killer%20of%20happiness%20is%20comparison.md) is a waste of time - people may seem to have struck it big (on LinkedIn or Instagram, at least) today but **everyone's big moment comes at different times**. So one really does not need to follow the **pace of others**. 

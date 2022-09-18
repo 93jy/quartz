@@ -17,7 +17,7 @@ Date summarised: 2021.10.03 (simple)
 - I have already 'specialised' by finishing all my actuarial exams, so now it is okay to go a bit more general and see what else is out there in this world 
 - This awareness of the importance of range and going beyond your domain could be a useful competitive advantage / edge compared to those who are solely focused on specialising / technical skills 
 - To really 'succeed' as a specialist, probably must be a superstar and right at the top, but with a more generalist slant, can combine a few things to find your own path to success 
-- How does this correlate with [[B_So Good They Can't Ignore You]] advice? 
+- How does this correlate with [So Good They Can't Ignore You](notes/B_So%20Good%20They%20Can't%20Ignore%20You.md) advice? 
 
 ## Top 3(+) quotes
 - Our greatest strength (as humans as opposed to computers) is the exact opposite of narrow specialisation. It is the ability to integrate broadly
@@ -55,7 +55,7 @@ Date summarised: 2021.10.03 (simple)
 - All forces align to incentivize a head start and early, narrow specialization, even if that is a poor long-term strategy.
 
 #### 6: The trouble with too much grit 
-- ==Concept of [[C_Match quality]], and knowing when to quit==
+- ==Concept of [Match quality](notes/C_Match%20quality.md), and knowing when to quit==
 - For professionals who did switch, whether they specialized early or late, **switching was a good idea**. “You lose a good fraction of your skills, so there’s a hit,” Malamud said, “but you **do actually have higher growth rates after switching.**” Regardless of when specialization occurred, switchers capitalized on experience to identify better matches.
 - The expression “young and foolish,” he wrote, describes the tendency of young adults to gravitate to risky jobs, but it is not foolish at all. **It is ideal.** They have **less experience than older workers, and so the first avenues they should try are those with high risk and reward**, and that have high informational value.
 - Winners quit fast and often when they detect that a plan is not the best fit, and do not feel bad about it

@@ -190,4 +190,4 @@ These are ideas mostly and ways of thinking. Not fully categorised below now
 	- [C_Greenwashing](notes/C_Greenwashing.md)
 	- [stewardship](notes/C_Stewardship.md)
 - [Optionality](notes/C_Optionality.md)
-- 
+- [Commission bias](notes/C_Commission%20bias.md)

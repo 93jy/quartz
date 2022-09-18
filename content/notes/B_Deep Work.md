@@ -6,15 +6,15 @@ tags:
 ---
 
 [Books](notes/Books.md) #book 
+> [!tldr] The book in 3 sentences
+> - Deep work is more powerful than most people realise
+> - To succeed in this increasingly competitive knowledge economy, you need to prioritise deep work over shallow work (which is easily replicable by others)
+> - A bunch of actionable steps in Part 2 that show how to make Deep Work a part of your professional life 
+>	- Work deeply 
+>	- Embrace boredom in this distracted world
+>	- Quit social media, plan every minute of your time 
+>	- Drain the shallows
 
-## The book in 3 sentences
-- Deep work is more powerful than most people realise
-- To succeed in this increasingly competitive knowledge economy, you need to prioritise deep work over shallow work (which is easily replicable by others)
-- A bunch of actionable steps in Part 2 that show how to make Deep Work a part of your professional life 
-	- Work deeply 
-	- Embrace boredom in this distracted world
-	- Quit social media, plan every minute of your time 
-	- Drain the shallows
 ## Impressions
 One of the first few self help books of this nature, one of the classics that I have been going to on and off. The commitment to deep work more solidified in 2021H2
 ## How the book changed me

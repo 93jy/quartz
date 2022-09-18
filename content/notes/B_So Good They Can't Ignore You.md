@@ -1,5 +1,5 @@
 ---
-title: "B_So Good They Can't Ignore You"
+title: "So Good They Can't Ignore You"
 alias: ["So Good They Can't Ignore You"]
 tags:
 - Book
@@ -40,7 +40,7 @@ When you look at Mike’s spreadsheet, you also notice that he **restricts the h
 	- comforting to know that it's not the exact career you have, but what you make of it. And, *stop thinking what the job can do for you, but what you can do for the job / how to be useful*. And don't need to plan so closely what you want to be in your career, just focus on accruing the capital and the skills (with the documentation / intentionality...) and you will eventually get somewhere, with *patience* too. 
 	- **Deliberate practice** - on paper sounds like a good idea, and can implement the time tracking (toggl) to be more *intentional* with time. But beyond that, the concepts of 'stretching abilities' and 'feedback' are quite fuzzy and may not be so easy to implement in a real work setting? 
 
-##### Intro 
+### Intro 
 - Different approaches to thinking about work: the **craftsman** mindset, a focus on what **value *you’re* producing** in your job, and the **passion** mindset, a focus on what **value *your* job offers you**. Most people adopt the passion mindset, but I argue that the craftsman mindset is the **foundation for creating work you love.**
 - **Hour tracking strategy**: Newport tracks the hours spent doing deep work on research problem... Turning his attention back to the quality of what he produces
 - What's bad about the **passion mindset** 

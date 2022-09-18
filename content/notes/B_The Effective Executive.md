@@ -18,7 +18,7 @@ Date summarised: July 2021 / ending 2021.10.24
 - A lot of the stuff is higher level management stuff, I am not at that level yet. Probably I will relate to more of this in a few years more in my career? May be a bit abstract at this phase (2021)
 - But at this point, I must remember the importance of time block planning / time management / single tasking (he encourages recording time, which I do religiously but *do not act on further* - perhaps I should see how I can **optimise based on my detailed toggl records**. And it's **not about how many hours you work, but on your work output (*be useful*)**
 - Chapters 6-7 are for higher level decision makers 
-## Top 3 quotes
+## Top 3+ quotes
 > **[[BA_The Effective Executive - 2 - Know Thy Time|Time management]]**
 > **The supply of time is totally inelastic**. No matter how high the demand, the supply will not go up. There is no price for it and no marginal utility curve for it. Moreover, time is totally perishable and cannot be stored. Yesterday’s time is gone forever and will never come back. Time is, therefore, always in exceedingly short supply. **There is no substitute for time.** Yet most of the tasks of the executive require, for minimum effectiveness, **a fairly large quantum of time**. To spend in one stretch less than this minimum is sheer waste. One accomplishes nothing and has to begin all over again.
 

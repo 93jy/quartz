@@ -12,7 +12,7 @@ Can relate strongly to many aspects of the book in my current experience in a de
 
 Down the slippery slope ...
 
-[Incentives](notes/2_Incentives.md): key reason for the disastrous way the company was run 
+[Incentives](notes/2_Incentives.md): reason for the disastrous way the company was run 
 ## How the book changed me
 *How my life / behaviour / thoughts / ideas have changed as a result of reading the book*
 
@@ -115,4 +115,3 @@ P151 Chapter 11: Andy Fastow's Secrets
 - p161: Enron's stakeholder management: they needed help from accountants, lawyers, credit rating agencies, banks, investment banks to carry out their machinations and all the off-balance sheet debt. 
 - p162: The banks
 	- Lending, though the most fundamental of banking activities, had devolved into a low-profit, low-margin enterprise, while investment banking, with outsized *fees*, was one of the most profitable endeavours ever. Enron, with their complex deals and keenness to close them fast, were one of the banks' most profitable customers 
-- 

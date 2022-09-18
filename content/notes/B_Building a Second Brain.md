@@ -9,6 +9,7 @@ tags:
 Date summarised: WIP
 ## The book in 3 sentences
 ## Impressions
+- Was skeptical at first that this would be another productivity book but the book does have some actionable insights on how to better manage the information firehose, whether for work or personal projects 2022.09.18 
 ## How the book changed me
 *How my life / behaviour / thoughts / ideas have changed as a result of reading the book*
 - Some similar ideas packaged in different ways
@@ -20,6 +21,10 @@ Date summarised: WIP
 ---
 ## Summary + Notes
 Ali abdaal video on this? What is the key message? 
+
+> *(Loc 311)* In the professional world: It’s not at all clear what you should be taking notes on. No one tells you when or how your notes will be used. The “test” can come at any time and in any form. You’re allowed to reference your notes at any time, provided you took them in the first place. You are expected to take action on your notes, not just regurgitate them. This isn’t the same notetaking you learned in school. It’s time to elevate the status of notes from test prep and humble scribblings into something far more interesting and dynamic. For modern, professional notetaking, a note is a “**knowledge building block**”—a discrete unit of information interpreted through your unique perspective and stored outside your head.
+
+> *(Loc 399)* Your brain is **no longer the bottleneck on your potential**, which means you have all the bandwidth you need to pursue any endeavor and make it successful. This sense of confidence in the quality of your thinking gives you the freedom to ask deeper questions and the courage to pursue bigger challenges. You can’t fail, because **[failure](notes/C_Failure.md) is just more information**, to be captured and used as fuel for your journey. This is what it’s like to build and harness the power of a Second Brain.
 
 - PARA: projects, areas, resources, archive
 	- **Just 3 levels of hierarchy** for all the notes: top-level PARA, the individual project folders, and the notes themselves. Seems too simple?

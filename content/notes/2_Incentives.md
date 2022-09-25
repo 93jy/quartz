@@ -1,5 +1,5 @@
 ---
-title: "2_Incentives"
+title: "Incentives"
 alias: ["Incentives", "incentives"]
 tags:
 - 

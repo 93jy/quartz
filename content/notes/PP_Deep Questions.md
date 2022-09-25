@@ -4,7 +4,7 @@ alias: ["Deep Questions"]
 tags:
 - Podcast
 ---
-[000_Podcasts](notes/000_Podcasts.md)
+[Podcasts](notes/000_Podcasts.md)
 Cal Newport
 
 - 2022.09.10 An interesting take on [TikTok](notes/2_TikTok.md)

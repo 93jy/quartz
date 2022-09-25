@@ -11,7 +11,6 @@ Date summarised: WIP
 ## Impressions
 - Was skeptical at first that this would be another productivity book but the book does have some actionable insights on how to better manage the information firehose, whether for work or personal projects 2022.09.18 
 ## How the book changed me
-*How my life / behaviour / thoughts / ideas have changed as a result of reading the book*
 - Some similar ideas packaged in different ways
 	- PARA: grouping by ideas/projects instead of type of note: something already kind of implemented in Obsidian and elsewhere. Not too new. But a good and deceptively simple framework? 
 	- Organising for actionability rather than to have a perfect archive, location, tag for each note. Related: [[C_Perfect is the enemy of good|perfectionism]], [80-20 rule](notes/C_80-20%20rule.md)

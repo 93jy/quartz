@@ -1,5 +1,5 @@
 ---
-title: "C_Wicked environments"
+title: "Wicked environments"
 alias: ["wicked environment"]
 tags:
 - MentalModel

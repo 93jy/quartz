@@ -50,7 +50,9 @@ Ali abdaal video on this? What is the key message?
 
 > *(Loc 640)* Think of yourself **not just as a taker of notes, but as a giver of notes**—you are giving your future self the gift of knowledge that is easy to find and understand.
 - **Express**: Show your work
+> [!quote] *(Loc 655)* Information becomes knowledge —personal, embodied, verified—*only when we put it to use*. You gain confidence in what you know only when you know that it works. Until you do, it’s just a theory.
 
+> *(Loc 672)* Information is always in flux, and it is always a work in progress. Since nothing is ever truly final, there is no need to wait to get started. You can publish a simple website now, and slowly add additional pages over time... The sooner you begin, the sooner you start on the path of improvement.
 
 - PARA: projects, areas, resources, archive
 	- **Just 3 levels of hierarchy** for all the notes: top-level PARA, the individual project folders, and the notes themselves. Seems too simple?

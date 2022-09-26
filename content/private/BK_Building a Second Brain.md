@@ -120,7 +120,7 @@ Your notes will be useless if you can’t decipher them in the future, or if the
 
   647-649    
 
-Information becomes knowledge —personal, embodied, verified—only when we put it to use. You gain confidence in what you know only when you know that it works. Until you do, it’s just a theory.
+==Information becomes knowledge —personal, embodied, verified—only when we put it to use. You gain confidence in what you know only when you know that it works. Until you do, it’s just a theory.==
 
 Notes
 

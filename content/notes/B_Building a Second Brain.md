@@ -23,7 +23,7 @@ Date summarised: WIP
 Ali abdaal video on this? What is the key message? 
 
 
-## PART ONE The Foundation Understanding What’s Possible
+## PART ONE The Foundation: Understanding What’s Possible
 ### Chapter 2: What is a Second Brain?
 > [!tldr] Summary
 > 
@@ -52,21 +52,31 @@ Ali abdaal video on this? What is the key message?
 A progression in the Second Brain journey
 
 #### The CODE Method: The 4 Steps to Remembering What Matters
-- **Capture**: Keep what resonates
+**Capture**: Keep what resonates
 > *(Loc 612)* Adopting the habit of knowledge capture has immediate benefits for our mental health and peace of mind. We can let go of the fear that our memory will fail us at a crucial moment. Instead of jumping at every new headline and notification, we can choose to consume information that adds value to our lives and consciously let go of the rest.
-- **Organise**: Save for actionability
+
+**Organise**: Save for actionability
 > *(Loc 617)* Because our priorities and goals can change at a moment’s notice, and probably will, we want to avoid organizing methods that are overly rigid and prescriptive. The best way to organize your notes is to organize for action, according to the active projects you are working on right now. Consider new information in terms of its utility, asking, “How is this going to help me move forward one of my current projects?”
-- **Distill**: Find the essence. Finding the main point of a note (you would not have time to review 10 pages of notes on a book you read last year)
+
+**Distill**: Find the essence. Finding the main point of a note (you would not have time to review 10 pages of notes on a book you read last year)
 > *(Loc 632)* There is a powerful way to facilitate and speed up this process of rapid association: distill your notes down to their essence. Every idea has an “essence”: the heart and soul of what it is trying to communicate. It might take hundreds of pages and thousands of words to fully explain a complex insight, but there is always a way to convey the core message in just a sentence or two.
 
 >*(Loc 640)* Every time you take a note, ask yourself, “**How can I make this as useful as possible for my future self?**” That question will lead you to annotate the words and phrases that explain why you saved a note, what you were thinking, and what exactly caught your attention.
 
 > *(Loc 640)* Think of yourself **not just as a taker of notes, but as a giver of notes**—you are giving your future self the gift of knowledge that is easy to find and understand.
-- **Express**: Show your work
+
+**Express**: Show your work
 > [!quote] *(Loc 655)* Information becomes knowledge —personal, embodied, verified—*only when we put it to use*. You gain confidence in what you know only when you know that it works. Until you do, it’s just a theory.
 
 > *(Loc 672)* Information is always in flux, and it is always a work in progress. Since nothing is ever truly final, there is no need to wait to get started. You can publish a simple website now, and slowly add additional pages over time... The sooner you begin, the sooner you start on the path of improvement.
 
+## PART TWO The Method: The Four Steps of CODE
+## Chapter 4: Capture—Keep What Resonates
+> [!tldr] Summary
+>
+> d
+
+> *(Loc 797)* The meaning of a thought, insight, or memory often isn’t immediately clear. We need to write them down, revisit them, and view them from a different perspective in order to digest what they mean to us. It is exceedingly difficult to do that within the confines of our heads. We need an external medium in which to see our ideas from another vantage point, and **writing things down** is the most effective and convenient one ever invented.
 
 
 - PARA: projects, areas, resources, archive

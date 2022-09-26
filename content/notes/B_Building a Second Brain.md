@@ -23,22 +23,34 @@ Date summarised: WIP
 Ali abdaal video on this? What is the key message? 
 
 ## Chapter 2: What is a Second Brain?
-- To properly take advantage of the power of a Second Brain, we need a new relationship to information, to technology, and even to ourselves.
-- A Second Brain is a **digital commonplace book**.
+> [!tldr] Summary
+> To properly take advantage of the power of a Second Brain, we need a new relationship to information, to technology, and even to ourselves. The Second Brain acts as a **digital commonplace book**. It is a method to remove the brain as the bottleneck of your potential. 
 
 > *(Loc 311)* In the professional world: It’s not at all clear what you should be taking notes on. No one tells you when or how your notes will be used. The “test” can come at any time and in any form. You’re allowed to reference your notes at any time, provided you took them in the first place. You are expected to take action on your notes, not just regurgitate them. This isn’t the same notetaking you learned in school. It’s time to elevate the status of notes from test prep and humble scribblings into something far more interesting and dynamic. For modern, professional notetaking, a note is a “**knowledge building block**”—a discrete unit of information interpreted through your unique perspective and stored outside your head.
 
 > *(Loc 399)* Your brain is **no longer the bottleneck on your potential**, which means you have all the bandwidth you need to pursue any endeavor and make it successful. This sense of confidence in the quality of your thinking gives you the freedom to ask deeper questions and the courage to pursue bigger challenges. You can’t fail, because **[failure](notes/C_Failure.md) is just more information**, to be captured and used as fuel for your journey. This is what it’s like to build and harness the power of a Second Brain.
 
 ## Chapter 3: How a Second Brain Works
- - *(Loc 448)* The 4 essential capabilities of a Second Brain
-	 - Making our ideas concrete 
-	 - Revealing new associations between ideas: *by keeping diverse kinds of material in one place, we increase the likelihood we will notice unusual associations*
-	 - Incubating our ideas over time: *where lots of ideas can be permanently saved for the long term: a calmer, more sustainable approach to creativity that relies on the gradual accumulation of ideas*
-	 - Sharpening our unique perspectives: *jobs depend on our ability to advance a particular point of view and persuade others to adopt it too*
+> [!tldr] Summary
+> The SB has 4 essential capabilities: Making our ideas concrete, revealing new associations between ideas, incubating ideas over time, and sharpening our unique perspectives
+> 
+> The CODE Method 
+
+
+
+
+### The 4 essential capabilities of a Second Brain
+ *(Loc 448)* 
+ - Making our ideas concrete 
+ - Revealing new associations between ideas: *by keeping diverse kinds of material in one place, we increase the likelihood we will notice unusual associations*
+ - Incubating our ideas over time: *where lots of ideas can be permanently saved for the long term: a calmer, more sustainable approach to creativity that relies on the gradual accumulation of ideas*
+ - Sharpening our unique perspectives: *jobs depend on our ability to advance a particular point of view and persuade others to adopt it too*
 - *(Loc 528)* **Informal**: Notes are inherently messy, so there's no need for perfect spelling or polished presentation. This makes it as easy and frictionless as possible to jot things down as soon as they occur to you, which is essential to allow nascent ideas to grow
+
 ### Remembering, Connecting, Creating: The 3 Stages of Personal Knowledge Management 
-##### The CODE Method: The 4 Steps to Remembering What Matters
+A progression in the Second Brain journey
+
+### The CODE Method: The 4 Steps to Remembering What Matters
 - **Capture**: Keep what resonates
 > *(Loc 612)* Adopting the habit of knowledge capture has immediate benefits for our mental health and peace of mind. We can let go of the fear that our memory will fail us at a crucial moment. Instead of jumping at every new headline and notification, we can choose to consume information that adds value to our lives and consciously let go of the rest.
 - **Organise**: Save for actionability

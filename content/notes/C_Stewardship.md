@@ -1,5 +1,5 @@
 ---
-title: stewardship
+title: Stewardship
 alias: ["stewardship"]
 tags:
 - MentalModel

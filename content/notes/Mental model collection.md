@@ -5,7 +5,7 @@ title: "Mental model collection"
 
 ***Everything that begins with C***
 These are ideas mostly and ways of thinking. Not fully categorised below now 
-- **[[C_The greatest killer of happiness is comparison]]**
+- **[The greatest killer of happiness is comparison](notes/C_The%20greatest%20killer%20of%20happiness%20is%20comparison.md)**
 - **[[2_Productivity]]**
 	- [[C_Keystone habit]]
 	- [[C_Weekly, quarterly review and plan]]
@@ -14,15 +14,15 @@ These are ideas mostly and ways of thinking. Not fully categorised below now
 	- [[C_Periodisation]]
 	- [[C_Negativity affects productivity]]
 	- [[C_Procrastination]]
-	- [[C_Time is an executive’s scarcest and most precious resource]]
-	- [[C_Multitasking doesn't work]]
+	- [Time is an executive’s scarcest and most precious resource](notes/C_Time%20is%20an%20executive%E2%80%99s%20scarcest%20and%20most%20precious%20resource.md)
+	- [Multitasking doesn't work](notes/C_Multitasking%20doesn't%20work.md)
 	- [[C_Smart notes]]
 	- [[C_The environment and habits]]
 	- [[C_Important vs urgent tasks]]
 	- [[C_Friction]]
 	- [[C_Deep Work]]
 - **Mental**
-	- [[C_Mindset]]
+	- [Mindset](notes/C_Mindset.md)
 	- [[C_Negative visualisation]]
 	- [[C_Labelling]]
 	- [[C_Living in the moment]]
@@ -31,7 +31,7 @@ These are ideas mostly and ways of thinking. Not fully categorised below now
 	- [[C_Priming]]
 - **Success**
 	- [[C_Definition of success]]
-	- [[C_Failure]]
+	- [Failure](notes/C_Failure.md)
 	- [[C_Locus of control]]
 	- [[C_Growth mindset]]
 	- [[C_Working harder does not correlate with more success]]

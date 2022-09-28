@@ -32,11 +32,11 @@ These are ideas mostly and ways of thinking. Not fully categorised below now
 - **Success**
 	- [[C_Definition of success]]
 	- [Failure](notes/C_Failure.md)
-	- [[C_Locus of control]]
+	- [Locus of control](notes/C_Locus%20of%20control.md)
 	- [[C_Growth mindset]]
 	- [[C_Working harder does not correlate with more success]]
-	- [[C_Trust the Process]]
-	- [[C_Slight edge]] 
+	- [Trust the Process](notes/C_Trust%20the%20Process.md)
+	- [Slight edge](notes/C_Slight%20edge.md) 
 	- [[C_Self-handicapping]]
 	- [[C_Self-pity]]
 	- [[C_Thinking Big]]
@@ -56,13 +56,13 @@ These are ideas mostly and ways of thinking. Not fully categorised below now
 	- [[C_Make yourself irreplaceable]]
 	- [[C_Likability]]
 	- [[C_Journey not the destination]]
-	- [[C_It's not what you know, it's who you know]]
-	- [[C_Grandiosity]]
-	- [[C_Ego]]
+	- [It's not what you know, it's who you know](notes/C_It's%20not%20what%20you%20know,%20it's%20who%20you%20know.md)
+	- [Grandiosity](notes/C_Grandiosity.md)
+	- [Ego](notes/C_Ego.md)
 	- [[C_Nobody knows what they are doing]]
 - **Knowledge and learning**
 	- [[C_Active recall]]
-	- [[C_Learning is most efficient in LT when inefficient in ST]]
+	- [Learning is most efficient in LT when inefficient in ST](notes/C_Learning%20is%20most%20efficient%20in%20LT%20when%20inefficient%20in%20ST.md)
 	- [[C_Explaining it to someone makes it easier to understand]]
 	- [[C_Desirable difficulties]]
 	- [[C_Deliberate practice]]
@@ -73,7 +73,7 @@ These are ideas mostly and ways of thinking. Not fully categorised below now
 	- [[C_Stick with your plan (investing)]]
 	- [[C_Active vs passive investing]]
 	- [[C_Hard to be really rich with just employee wages]]
-	- [[C_Old world vs new world businesses]]
+	- [Old world vs new world businesses](notes/C_Old%20world%20vs%20new%20world%20businesses.md)
 	- [[C_Hard tech vs soft tech]]
 	- [[C_Lead vs lag indicators]]
 	- [[C_Many ways to make money even in an irrational market]]
@@ -95,13 +95,13 @@ These are ideas mostly and ways of thinking. Not fully categorised below now
 	- [[C_execution is more difficult than strategising]]
 	- 
 - **Bias**
+	- [Incentives](notes/C_Incentives.md)
 	- [[C_Confirmation bias]]
 	- [[C_Hindsight bias]]
 	- [[C_Home bias]]
 	- [[C_Survivorship bias]]
-	- [[C_Wrong side of maybe fallacy]]
+	- [Wrong side of maybe fallacy](notes/C_Wrong%20side%20of%20maybe%20fallacy.md)
 	- [[C_Greater fool theory]]
-	- [[2_Incentives|C_Incentives]] [2_Incentives](notes/2_Incentives.md)
 - **Ideas**
 	- [[C_We do not stay the same over time]]
 	- [[C_We have many identities]]
@@ -110,13 +110,13 @@ These are ideas mostly and ways of thinking. Not fully categorised below now
 	- [[C_Tipping point]]
 	- [[C_Luck]]
 	- [[C_Level of abstraction]]
-	- [[C_Hedgehog concept]]  [[C_Foxes v hedgehogs]]
+	- [[C_Hedgehog concept]]  [Foxes v hedgehogs](notes/C_Foxes%20v%20hedgehogs.md)
 	- [[C_Placebo effect]]
 	- [[C_Rabbit holes]]
 	- [[C_Regression to the mean]]
 	- [[C_Zero sum game]]
 	- [[C_Black swan]]
-	- [[C_80-20 rule]]
+	- [80-20 rule](notes/C_80-20%20rule.md)
 	- [[C_Grey rhino]]
 	- [[C_S-curve]]
 	- [[C_Measure]]
@@ -163,7 +163,7 @@ These are ideas mostly and ways of thinking. Not fully categorised below now
 - [[C_Levels-of-processing effect]]
 - [[C_Longevity of the temporary]]
 - [[C_Make it easier for your future self]]
-- [[C_Match quality]]
+- [Match quality](notes/C_Match%20quality.md)
 - [[C_Mental Squeeze Points]]
 - [[C_Mimetic desire]]
 - [[C_Neuroplasticity]]
@@ -185,9 +185,9 @@ These are ideas mostly and ways of thinking. Not fully categorised below now
 - [[C_Evolutionary hijacking]]
 - [[C_Redundancy]]
 - [[C_Economies of scale]]
-- [C_Planning fallacy](notes/C_Planning%20fallacy.md)
+- [Planning fallacy](notes/C_Planning%20fallacy.md)
 - **[Climate change, sustainability](notes/Climate%20change,%20sustainability.md)**
-	- [C_Greenwashing](notes/C_Greenwashing.md)
-	- [stewardship](notes/C_Stewardship.md)
+	- [Greenwashing](notes/C_Greenwashing.md)
+	- [Stewardship](notes/C_Stewardship.md)
 - [Optionality](notes/C_Optionality.md)
 - [Commission bias](notes/C_Commission%20bias.md)

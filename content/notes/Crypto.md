@@ -53,7 +53,7 @@ More stuff in notion collected over the months.
 - [[EVM]]
 - Privacy, data protection - solved by NFTs?
 - ETH as a security 
-- [Incentives](notes/2_Incentives.md) 
+- [Incentives](notes/C_Incentives.md) 
 - [Network effects](notes/C_Network%20effects.md)
 
 ### Tokens 

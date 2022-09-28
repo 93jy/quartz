@@ -12,7 +12,7 @@ Can relate strongly to many aspects of the book in my current experience in a de
 
 Down the slippery slope ...
 
-[Incentives](notes/2_Incentives.md): reason for the disastrous way the company was run 
+[Incentives](notes/C_Incentives.md): reason for the disastrous way the company was run 
 ## How the book changed me
 *How my life / behaviour / thoughts / ideas have changed as a result of reading the book*
 
@@ -29,7 +29,7 @@ Down the slippery slope ...
 - p71 competition between Mark and Skilling because they had similar backgrounds; [[C_The greatest killer of happiness is comparison]]. Not exactly related, but comparisons are more painful when you compare against e.g. your highschool classmates, people (once) similar to you 
 - p74 [[C_Greater fool theory]]
 - p76: 'no one felt responsible for managing the projects after they were up and running. They saw their role as getting the deal done' - cautionary tale for our team, the monitoring / valuation aspect is also important, to maintain the IF book going forward  
-- 2022.06.29 p78 **[[2_Incentives|C_Incentives]]** Drove a lot of the destructive behaviour, e.g. the dealmakers were incentivised by the deals rather than the follow-up. "Fatal flaw" was thee compensation structure.
+- 2022.06.29 p78 **[[notes/C_Incentives|C_Incentives]]** Drove a lot of the destructive behaviour, e.g. the dealmakers were incentivised by the deals rather than the follow-up. "Fatal flaw" was thee compensation structure.
 	- PVCF (similar to VNB!) was the metric. They were paid when the banks lent money, not when the project was executed 
 - 2022.07.01 p88: Government backed financing for development projects 
 - 2022.07.02 p91: Visionaries vs deep down operators (Lay vs Kinder): "there are lots of visionaries, but *very few people who can actually run a company*"
@@ -57,7 +57,7 @@ Down the slippery slope ...
 	- *It is business wisdom that many of a company's best deals are the ones it doesn't do*. But at Enron, the place was defined by dealmaking (sounds like my team?)
 	- RAC existed to keep analysts happy
 	- Putting a lot of pressure on the RAC to sign off by submitting deals close to the quarter end (that's probably why Frank says cannot strong-arm him and set these deadlines)
-	- The CRO felt he was ineffective, but still wanted to stay because of the money and to wait for his stock options to invest... tough decision and explained by [[2_Incentives]] Again 
+	- The CRO felt he was ineffective, but still wanted to stay because of the money and to wait for his stock options to invest... tough decision and explained by [[notes/C_Incentives]] Again 
 - A lot of Enron sounded great in theory, but the reality was something else entirely 
 - p120: Company culture, and how everything was different and radical - also because it was the dawn of thee internet age, where there was 'complete suspension of healthy skepticism and disbelief, and brand new dot-coms could pose serious threats to big, established companies'. 
 - p126: thee company became mostly traders and deal makers, abandoning its original business model. But a company built around trading and dealmaking cannot possibly have steadily increasing returns. 

@@ -152,7 +152,7 @@ Knowledge assets can come from either the external world or your inner thoughts.
 The meaning of a thought, insight, or memory often isn’t immediately clear. We need to write them down, revisit them, and view them from a different perspective in order to digest what they mean to us. It is exceedingly difficult to do that within the confines of our heads. We need an external medium in which to see our ideas from another vantage point, and writing things down is the most effective and convenient one ever invented.
 
   798-801    
-
+### Twelve favourite problems
 You have to keep a dozen of your favorite problems constantly present in your mind, although by and large they will lay in a dormant state. Every time you hear or read a new trick or a new result, test it against each of your twelve problems to see whether it helps. Every once in a while there will be a hit, and people will say, “How did he do it? He must be a genius!”
 
   832-834    

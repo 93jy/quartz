@@ -78,6 +78,8 @@ A progression in the Second Brain journey
 
 > *(Loc 797)* The meaning of a thought, insight, or memory often isn’t immediately clear. We need to write them down, revisit them, and view them from a different perspective in order to digest what they mean to us. It is exceedingly difficult to do that within the confines of our heads. We need an external medium in which to see our ideas from another vantage point, and **writing things down** is the most effective and convenient one ever invented.
 
+twelve favourite problems 
+
 
 - PARA: projects, areas, resources, archive
 	- **Just 3 levels of hierarchy** for all the notes: top-level PARA, the individual project folders, and the notes themselves. Seems too simple?

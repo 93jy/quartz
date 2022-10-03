@@ -10,9 +10,11 @@ Date summarised:
 ## Impressions
 Can relate strongly to many aspects of the book in my current experience in a deal-making team facing the 'obstacles' such as stakeholders like *risk management*, auditors, regulators, internal departments. Frank will love this book as it shows the consequence of going too far in on the *influencing* and bending all the (accounting) rules to your will, for the sake of business. 
 
-Down the slippery slope ...
+Down the slippery slope ... as the Enron executives get more and more confident in their accounting tricks and concoct increasingly outrageous schemes to pocket more money for themselves 
 
 [Incentives](notes/C_Incentives.md): reason for the disastrous way the company was run 
+
+
 ## How the book changed me
 *How my life / behaviour / thoughts / ideas have changed as a result of reading the book*
 

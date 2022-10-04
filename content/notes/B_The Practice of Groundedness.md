@@ -16,6 +16,15 @@ Contrast against [Think and Grow Rich](notes/B_Think%20and%20Grow%20Rich.md)
 ---
 ## Summary + Notes
 
+## Part One: The Principles of Grounded Success
+### 1 - Grounded to Soar
+- '**Heroic individualism**': an ongoing game of one-upmanship (against yourself and others), paired with the limiting belief that measurable achievement is the only arbiter of success. This would make you constantly feel like you never reach the finish line that is *lasting fulfilment*
+
+> *(Loc 211)* **Groundedness** is unwavering internal strength and self-confidence that sustains you through ups and downs. It is a deep reservoir of integrity and fortitude, of wholeness, out of which lasting performance, well-being, and fulfillment emerge... When you practice groundedness, you do not neglect passion, performance, or productivity. Nor does groundedness eliminate all forms of passion. Rather, it situates and stabilizes these qualities, so that your striving and ambition become less frenetic and more focused, sustainable and fulfilling; less about achieving something out in front of you and more about living in alignment with your innermost values, pursuing your interests, and expressing your authentic self in the here and now, and in a manner you can be proud of. **When you are grounded you no need to look up or down**. 
+
+> *(Loc 226)* Studies show that happiness is a function of **reality minus expectations**. In other words, the key to being happy isn't always to want and strive for more. Instead, happiness is found in the **present moment**, in creating a meaningful life and **being fully engaged in it, right here and right now**. 
+
+
 ### 4 - Be Patient and You'll Get There Faster
 - *[Trusting the Process](notes/C_Trust%20the%20Process.md), [Commission bias](notes/C_Commission%20bias.md), [Slight edge](notes/C_Slight%20edge.md)*
 > [!tldr] Thoughts
@@ -34,4 +43,4 @@ Contrast against [Think and Grow Rich](notes/B_Think%20and%20Grow%20Rich.md)
 
 - This must be balanced against the opposite risk: spending too much time on something and knowing when to cut losses. [Range (book)](notes/B_Range.md) talks about [match quality](C_Match%20quality), which is *even* more important than grit
 
-> *(Loc 1240)* **'Go slow to go fast'**: Humans suffer from what behavioural scientists call the [Commission bias](notes/C_Commission%20bias.md), or the tendency to err on the side of action over inaction. If we don't see results, we get impatient and feel a strong urge to do something - anything - to expedite our progress. But often the best thing we can do is *nothing* - staying the course, tweaking as we go, and letting things unfold in their own time. Instead of always thinking, 'Don't just stand there, do something', we should at least consider thinking 'Don't just do something, stand there'. 
+> *(Loc 1240)* **'Go slow to go fast'**: Humans suffer from what behavioural scientists call the [commission bias](notes/C_Commission%20bias.md), or the tendency to err on the side of action over inaction. If we don't see results, we get impatient and feel a strong urge to do something - anything - to expedite our progress. But often the best thing we can do is *nothing* - staying the course, tweaking as we go, and letting things unfold in their own time. Instead of always thinking, 'Don't just stand there, do something', we should at least consider thinking 'Don't just do something, stand there'. 

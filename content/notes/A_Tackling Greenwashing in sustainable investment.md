@@ -10,7 +10,7 @@ tags:
 - 'Net zero' claims: 4 focus areas
 	- Trajectory: pathway to net zero 
 	- Scope of emissions: including indirect emissions
-	- Reliance on carbon offsets to reduce emissions: should be a last resort [[Carbon pricing]]
+	- Reliance on carbon offsets to reduce emissions: should be a last resort [[notes/Carbon pricing]]
 	- Absolute vs relative statements: pledges to reduce carbon 'intensity' are meaningless if emissions are increasing through higher sales 
 - EU Taxonomy and 2020 Taxonomy Regulation: 6 environmental objectives; defining which *assets and activities are green*
 - Impact investing 

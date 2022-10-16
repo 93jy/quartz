@@ -24,6 +24,7 @@ Contrast against [Think and Grow Rich](notes/B_Think%20and%20Grow%20Rich.md)
 
 > *(Loc 226)* Studies show that happiness is a function of **reality minus expectations**. In other words, the key to being happy isn't always to want and strive for more. Instead, happiness is found in the **present moment**, in creating a meaningful life and **being fully engaged in it, right here and right now**. 
 
+Loc 242 stopped 2022.10.04 
 
 ### 4 - Be Patient and You'll Get There Faster
 - *[Trusting the Process](notes/C_Trust%20the%20Process.md), [Commission bias](notes/C_Commission%20bias.md), [Slight edge](notes/C_Slight%20edge.md)*

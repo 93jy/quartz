@@ -12,6 +12,8 @@ Can relate strongly to many aspects of the book in my current experience in a de
 
 Down the slippery slope ... as the Enron executives get more and more confident in their accounting tricks and concoct increasingly outrageous schemes to pocket more money for themselves 
 
+Smoking their own dope / hive mind / any dissent shot down, making it hard for anyone to present an alternative viewpoint that closer reflected reality 
+
 [Incentives](notes/C_Incentives.md): reason for the disastrous way the company was run 
 
 
@@ -59,7 +61,7 @@ Down the slippery slope ... as the Enron executives get more and more confident 
 	- *It is business wisdom that many of a company's best deals are the ones it doesn't do*. But at Enron, the place was defined by dealmaking (sounds like my team?)
 	- RAC existed to keep analysts happy
 	- Putting a lot of pressure on the RAC to sign off by submitting deals close to the quarter end (that's probably why Frank says cannot strong-arm him and set these deadlines)
-	- The CRO felt he was ineffective, but still wanted to stay because of the money and to wait for his stock options to invest... tough decision and explained by [[notes/C_Incentives]] Again 
+	- The CRO felt he was ineffective, but still wanted to stay because of the money and to wait for his stock options to invest... tough decision and explained by [incentives](notes/C_Incentives.md) again 
 - A lot of Enron sounded great in theory, but the reality was something else entirely 
 - p120: Company culture, and how everything was different and radical - also because it was the dawn of thee internet age, where there was 'complete suspension of healthy skepticism and disbelief, and brand new dot-coms could pose serious threats to big, established companies'. 
 - p126: thee company became mostly traders and deal makers, abandoning its original business model. But a company built around trading and dealmaking cannot possibly have steadily increasing returns. 
@@ -79,7 +81,7 @@ Down the slippery slope ... as the Enron executives get more and more confident 
 	- Securitisation was so complex and ripe for abuse, so there were hundreds of rules. Fastow was 'rules driven' from day one, and did anything possible to accomplish his goals while following the precise letter of the rules, even if it meant violating their intent
 	- He did not cross the line at Continental Bank because they were more risk averse, but at Enron
 	- Maybe shows the importance of rules based vs principle-based, and why principle-based is probably better...
-- p138 Fastow's unhappiness despite earning so much and climbing so fast: [[C_The greatest killer of happiness is comparison]] - seeing how he will match the top earner salaries
+- p138 Fastow's unhappiness despite earning so much and climbing so fast: [the greatest killer of happiness is comparison](notes/C_The%20greatest%20killer%20of%20happiness%20is%20comparison.md) - seeing how he will match the top earner salaries
 	- The finance department didn't have its own P&L (*P&L: meaning the division is more than a cost centre, it makes money for the company*). So he lobbied to have his own division 
 - p140: fear culture: people started to get fearful to speak out against Fastow with his volatile temper 
 - p140: Fastow was the wrong person to be CFO (at 36 years old)
@@ -117,3 +119,7 @@ P151 Chapter 11: Andy Fastow's Secrets
 - p161: Enron's stakeholder management: they needed help from accountants, lawyers, credit rating agencies, banks, investment banks to carry out their machinations and all the off-balance sheet debt. 
 - p162: The banks
 	- Lending, though the most fundamental of banking activities, had devolved into a low-profit, low-margin enterprise, while investment banking, with outsized *fees*, was one of the most profitable endeavours ever. Enron, with their complex deals and keenness to close them fast, were one of the banks' most profitable customers 
+- p251 Mark, like Skilling, believed that talent outweighed experience, and in Enron's world, talent meant thirty-somethings with MBAs from all the best business schools. What did it matter that they didn't know a thing about water? They were smart; they would figure it out. 
+- p251 Mark *had* to take Azurix public; otherwise the company would soon be out of cash. It was a very risky move, especially in a stock market that had zero patience. After a public offering, the brand-new company would be naked, forced to reveal itself four times a year, like every other publicly traded corporation. 
+- p261 It was astonishing that two high-ranking executives, working for the same company, sitting on the same board, and evaluating the same business, could come to such wildly varying conclusions. It spoke volumes about the murkiness of Enron's numbers, about the way this company viewed earnings and margins and all the other financial benchmarks by which we gauge American corporations. It also said a great deal about the inability of top executives at Enron to work together or even cooperate. *Everything was perception; nothing was real.*
+- p305 Conventional hedges work only for highly liquid assets, like large-cap stocks or corporate bonds, where derivatives traders can make money by writing lots of such "insurance". If not you will never find a counterparty to take the other side of the hedge; the chance of losing money is too high. But Enron wasn't really hedging against a true economic loss; rather, it was using the Raptors to hedge against an *accounting* loss... Which amounted to tapping the value of its own shares (just covering losses in one pocket by taking money from another pocket). "Hedging risk with itself". 

@@ -26,7 +26,7 @@ I read quite a number of books, perhaps too many falling under the category 'sel
 | [[B_The Uninhabitable Earth]]                                             | WIP                 | 2021.12.03-      |
 | [A Guide To The Good Life](notes/B_A%20Guide%20To%20The%20Good%20Life.md) | WIP                 | 2021.12.18-      |
 | [Antifragile](notes/B_Antifragile.md)                                     | Still reading       | 2021.12.20-      |
-| [Peak Performance](notes/B_Peak%20Performance.md)                       | WIP                 | 2021.12.22       |
+| [Peak Performance](notes/B_Peak%20Performance.md)                         | WIP                 | 2021.12.22       |
 | [[B_This Changes Everything]]                                             | Still reading       | 2022.01.10       |
 | [B_Make Time](notes/B_Make%20Time.md)                                     | WIP                 | 2022.01.10       |
 - [Building a Second Brain](notes/B_Building%20a%20Second%20Brain.md)

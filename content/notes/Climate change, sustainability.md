@@ -27,7 +27,7 @@ title: "Climate change, sustainability"
 ## Resources
 - [The Actuary: Sustainability articles](notes/The%20Actuary.md#Sustainability%20articles)
 - [[IFOA sustainability application]]
-- [[IFOA sustainability course (Oct 2022)]]
+- [IFOA sustainability course (Oct 2022)](notes/IFOA%20sustainability%20course%20(Oct%202022).md)
 - Economist newsletter
 - [edX_Climate change - financial risks and opportunities](notes/edX_Climate%20change%20-%20financial%20risks%20and%20opportunities.md)
 - Economist podcast: "To a lesser degree"

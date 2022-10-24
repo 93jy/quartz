@@ -9,7 +9,6 @@ tags:
 > 
 >  The 'Amazon for Southeast Asia' relies on Garena (gaming division) to fuel Shopee's expansion (which is still bleeding money); SeaMoney (fintech division) is still small but there is a huge opportunity with 70% of the SEA population unbanked/underbanked; it could become the region's version of Ant Financial 
 
-
 - Sea started off with Garena and focusing on low-bandwidth consumers in Southeast Asia 
 - Produced the hit game *Free Fire* that brought in billions in revenue 
 - It has ventured into Brazil / Latin America, but has recently pulled back to focus on SEA again. But that market represents a huge opportunity 

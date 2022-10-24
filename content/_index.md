@@ -16,7 +16,7 @@ Hello
 - [Mental models and concepts](notes/Mental%20model%20collection.md)
 - [Videos](notes/000_Videos.md)
 - [Podcasts](notes/000_Podcasts.md)
-- [notes/Sources](notes/Sources.md)
+- [Sources](notes/Sources.md)
 - [[000_Entertainment|Entertainment (shows, movies) - file names start with E]]
 - Industries, companies, religions, items, big *topics: 2_
 

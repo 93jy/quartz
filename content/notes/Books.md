@@ -8,7 +8,6 @@ I read quite a number of books, perhaps too many falling under the category 'sel
 - [The Personal MBA](notes/B_The%20Personal%20MBA.md)
 - [Meditations](notes/B_Meditations.md)
 - [How to Read a Book](notes/B_How%20to%20Read%20a%20Book.md)
-- [The Smartest Guys in the Room](notes/The%20Smartest%20Guys%20in%20the%20Room.md)
 - [The Rise and Fall of the Third Reich](notes/B_The%20Rise%20and%20Fall%20of%20the%20Third%20Reich.md)
 - [Think and Grow Rich](notes/B_Think%20and%20Grow%20Rich.md)
 - [Good Economics for Hard Times](notes/B_Good%20Economics%20for%20Hard%20Times.md)
@@ -43,6 +42,7 @@ I read quite a number of books, perhaps too many falling under the category 'sel
 | [The Effective Executive](notes/B_The%20Effective%20Executive.md)                   | Full   | 2021.07 - 2021.10.24    |
 | [[B_Ultralearning]]                                                                 | Full   | 2021.07.25 - 2021.10.29 |
 | [So Good They Can't Ignore You](notes/B_So%20Good%20They%20Can't%20Ignore%20You.md) | Full   | 2022.08.22              |
+- [The Smartest Guys in the Room](notes/The%20Smartest%20Guys%20in%20the%20Room.md)
 
 ## Stalled 
  

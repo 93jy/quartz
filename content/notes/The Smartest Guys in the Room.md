@@ -5,29 +5,25 @@ tags:
 - Book
 ---
 [Books](notes/Books.md) #book 
-Date summarised: 
-## The book in 3 sentences
+Date summarised: 2022.10.24 
+There is also a documentary (seemingly free on Youtube?) based on this book 
+
+> [!tldr] The book in 3 sentences
+> - Describes in vivid detail the story of Enron from birth to spectacular demise, how a group of 'brilliant' people got ahead of themselves to create a huge company with fictitious profits through off-balance sheet debt and financial machinations (and believing their own lies in the process), which led to the inevitable end
+> - Greed and [incentives](notes/C_Incentives.md) are a big reason for the disastrous way the company was run 
+> - Groupthink and not having or accepting an outside opinion (among all parties: Enron executives, bankers, auditors, stock analysts, credit rating agencies...) 
+
 ## Impressions
-Can relate strongly to many aspects of the book in my current experience in a deal-making team facing the 'obstacles' such as stakeholders like *risk management*, auditors, regulators, internal departments. Frank will love this book as it shows the consequence of going too far in on the *influencing* and bending all the (accounting) rules to your will, for the sake of business. 
-
-Down the slippery slope ... as the Enron executives get more and more confident in their accounting tricks and concoct increasingly outrageous schemes to pocket more money for themselves 
-
-Smoking their own dope / hive mind / any dissent shot down, making it hard for anyone to present an alternative viewpoint that closer reflected reality 
-
-[Incentives](notes/C_Incentives.md): reason for the disastrous way the company was run 
-
-Everything done in service of the quarterly earnings reports, which drove the stock price 
-
-Words and hype are meaningless / just hot air when underlying it all is nothing. We all know this fact, but this was routinely highlighted in this story. The Enron executives repeatedly tried to drum up support for the stock / their crooked fellow executives ('highest faith and confidence'...) in times of crisis. The 'narrative' / spin doctors' efforts can only go so far, and the glib rhetoric could not save the company 
-
-Messiah/god complex - thinking that they could singlehandedly save the company 
-## How the book changed me
-*How my life / behaviour / thoughts / ideas have changed as a result of reading the book*
-
-## Top 3(+) quotes
-
+- Can relate to many aspects of the book in my current experience in a deal-making team facing the 'obstacles' such as stakeholders like *risk management*, auditors, regulators, internal departments. The Risk Management department will love this book as a cautionary tale laying out the consequence of going too far in on the *influencing* and bending all the (accounting) rules to your will, for the sake of business. 
+- They went down the slippery slope as the Enron executives get more and more confident in their accounting tricks and concoct increasingly outrageous schemes to pocket more money for themselves 
+- Smoking their own dope / hive mind / any dissent shot down, making it hard for anyone to present an alternative viewpoint that closer reflected reality 
+- Everything done in service of the quarterly earnings reports, which drove the stock price 
+- Words and hype are meaningless / just hot air when underlying it all is nothing. We all know this fact, but this was routinely highlighted in this story. The Enron executives repeatedly tried to drum up support for the stock / their crooked fellow executives ('highest faith and confidence'...) in times of crisis. The 'narrative' / spin doctors' efforts can only go so far, and the glib rhetoric could not save the company 
+- Messiah/god complex - thinking that they could singlehandedly save the company 
+- Rules vs principles: technically, many aspects of their shenanigans were legal if one were to interpret rules and rules, even if they were blatantly going against principles. Fastow was a master of finding loopholes in the rules 
 ---
 ## Summary + Notes
+(not complete)
 - Many of the high level people got there because they **got things done** - so execution is very important (seems like motherhood statement, but in reality it's quite hard to see things through to completion, so being able to do so is a skill)
 	- p76 opposite: "Enron could talk a good game, but they didn't deliver" (too focused on dealmaking)
 - 2022.06.23: Interesting to see the wheeling and dealing in corporate America, something like Succession. Boardroom battles, takeover bids, cozying up with important people politicians. A whole different world.
@@ -74,7 +70,7 @@ Messiah/god complex - thinking that they could singlehandedly save the company
 	- Basically, just kicking the can down the road by deferring problems to the next period to hit their current quarterly earnings target
 - p132: When did Enron cross the line? The scandal grew out of a steady accumulation of habits and values and actions that began years before and finally spiralled out of control 
 	- In the bull market, all companies did these kinds of semi-shady things that Enron did too 
-	- A new ethos in corporate America: *anything not blatantly illegal was therefore okay*.*
+	- A new ethos in corporate America: *anything not blatantly illegal was therefore okay*.
 		- Incentives: creative accountants were rewarded; complex financial structures to make their numbers look better (after Enron, 'creative' became a bad word)
 		- Securities that looked like equity on the balance sheet but for tax purposes could be treated like debt
 		- Securitisations exploded: everything turned to securities to sell to the investing public (lotto winnings, proceeds from tobacco lawsuits)
@@ -105,7 +101,6 @@ Messiah/god complex - thinking that they could singlehandedly save the company
 	- Probably also the impact of groupthink
 - p149 Structured finance: Enron was an aggressive user of structured finance devices like special purpose entities, securitisations, and off-balance-sheet partnerships
 	- Starting out as pure, clear, legitimate deals that get messier and messier - like drugs 
-
 P151 Chapter 11: Andy Fastow's Secrets
 - Finance 101: only 3 ways to fund a company's growth, all ruled out 
 	- Debt: they didn't want too much, hurt their credit rating 
@@ -129,4 +124,4 @@ P151 Chapter 11: Andy Fastow's Secrets
 - p305 Conventional hedges work only for highly liquid assets, like large-cap stocks or corporate bonds, where derivatives traders can make money by writing lots of such "insurance". If not you will never find a counterparty to take the other side of the hedge; the chance of losing money is too high. But Enron wasn't really hedging against a true economic loss; rather, it was using the Raptors to hedge against an *accounting* loss... Which amounted to tapping the value of its own shares (just covering losses in one pocket by taking money from another pocket). "Hedging risk with itself". 
 - p372 Only deal makers got ahead; "no one in the corporate leadership truly cares about those charged with executing the deals and making them actually produce profit."
 - p378 Enron had been unable to roll its commercial paper - the portfolio of unsecured short-term loans that all big companies use to fund their day-to-day needs. Renewing such debt was normally a routine matter. Though the amounts involved were huge (~2bn), the exposure was so brief (24h) that, for lenders, it was really nothing to worry about - unless they had reason to wonder if the company would survive long enough to pay it back. 
-- p379 Under Fastor, Enron had operated quarter to quarter. The company lacked the kind of sophisticated cash-management systems that big companies required. 
+- p379 Under Fastow, Enron had operated quarter to quarter. The company lacked the kind of sophisticated cash-management systems that big companies required. 

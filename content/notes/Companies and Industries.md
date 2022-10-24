@@ -5,21 +5,22 @@ tags:
 - 
 ---
 
-Up: [[1_Business]]
+Up: [1_Business](notes/1_Business.md)
 
 ### Finance
-[[Banking industry]]
-[[Insurance industry]]
-- [[Life insurance]]
-- [[Health insurance]]
-- [[General Insurance]]
+- [[Banking industry]]
+- [Insurance industry](notes/Insurance%20industry.md)
+	- [[Life insurance]]
+	- [[Health insurance]]
+	- [General Insurance](notes/General%20Insurance.md)
 
 ### Others
-[[2_Big Pharma]]
-[[2_Big Tech]]
-[[2_Social media]]
+- [[2_Big Pharma]]
+- [[2_Big Tech]]
+- [[2_Social media]]
 
 ### Specific companies 
-[[Netflix]]
-And many more 
-[[2_Enron]]
+- [[Netflix]]
+- [Sea](notes/Sea.md)
+- And many more 
+- [[2_Enron]]

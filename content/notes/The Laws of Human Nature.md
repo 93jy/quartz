@@ -9,6 +9,7 @@ tags:
 Date summarised: WIP
 ## The book in 3 sentences
 ## Impressions
+Recurring theme: observing the things and behaviours around you with some detachment like an anthropologist. Putting distance between yourself and the subject
 ## How the book changed me
 *How my life / behaviour / thoughts / ideas have changed as a result of reading the book*
 
@@ -18,3 +19,4 @@ Date summarised: WIP
 ## Summary + Notes
 
 **[Grandiosity](notes/C_Grandiosity.md)** chapter 
+

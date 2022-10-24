@@ -16,7 +16,11 @@ Smoking their own dope / hive mind / any dissent shot down, making it hard for a
 
 [Incentives](notes/C_Incentives.md): reason for the disastrous way the company was run 
 
+Everything done in service of the quarterly earnings reports, which drove the stock price 
 
+Words and hype are meaningless / just hot air when underlying it all is nothing. We all know this fact, but this was routinely highlighted in this story. The Enron executives repeatedly tried to drum up support for the stock / their crooked fellow executives ('highest faith and confidence'...) in times of crisis. The 'narrative' / spin doctors' efforts can only go so far, and the glib rhetoric could not save the company 
+
+Messiah/god complex - thinking that they could singlehandedly save the company 
 ## How the book changed me
 *How my life / behaviour / thoughts / ideas have changed as a result of reading the book*
 
@@ -43,7 +47,7 @@ Smoking their own dope / hive mind / any dissent shot down, making it hard for a
 - **Earnings volatility**: the way companies normally work, but they're *not rewarded by Wall Street, which values consistency above all else*. 
 - p101: Jeff Skilling had little appreciation for how one got things done in the real world; he had little interest in the nuts and bolts of operations (still a management consultant at heart). That's always important... My current role (MR) shows me the detailed technical stuff (the operational considerations in treaties) and also the bigger picture thinking (business concepts and etc)
 - p102: 'Quality of earnings': Wall St started questioning how Enron managed to hit its earnings targets 
-- P102: *good on the way up, terrible on the way down* (like [[00_Crypto]]): when investors love a stock, they'll *forgive a lot*, and gloss over potential problems. But once Wall Street goes negative on a stock, the opposite takes place: a remorseless skepticism takes hold as investors search for clues that more bad news is on the way 
+- P102: *good on the way up, terrible on the way down* (like [Crypto](notes/Crypto.md)): when investors love a stock, they'll *forgive a lot*, and gloss over potential problems. But once Wall Street goes negative on a stock, the opposite takes place: a remorseless skepticism takes hold as investors search for clues that more bad news is on the way 
 	- Downgrading of Enron stock to 'hold' (Wall street's code for sell)
 - p105 [[Share buyback]]: when a company buys back its own shares, this results in fewer shares outstanding, which improves the (closely watched) earnings per share number
 - p105: Skilling made Enron more like ECT, which meant creating new, modern businesses and de-emphasising old legacy operations like pipelines and natural gas production 
@@ -123,3 +127,6 @@ P151 Chapter 11: Andy Fastow's Secrets
 - p251 Mark *had* to take Azurix public; otherwise the company would soon be out of cash. It was a very risky move, especially in a stock market that had zero patience. After a public offering, the brand-new company would be naked, forced to reveal itself four times a year, like every other publicly traded corporation. 
 - p261 It was astonishing that two high-ranking executives, working for the same company, sitting on the same board, and evaluating the same business, could come to such wildly varying conclusions. It spoke volumes about the murkiness of Enron's numbers, about the way this company viewed earnings and margins and all the other financial benchmarks by which we gauge American corporations. It also said a great deal about the inability of top executives at Enron to work together or even cooperate. *Everything was perception; nothing was real.*
 - p305 Conventional hedges work only for highly liquid assets, like large-cap stocks or corporate bonds, where derivatives traders can make money by writing lots of such "insurance". If not you will never find a counterparty to take the other side of the hedge; the chance of losing money is too high. But Enron wasn't really hedging against a true economic loss; rather, it was using the Raptors to hedge against an *accounting* loss... Which amounted to tapping the value of its own shares (just covering losses in one pocket by taking money from another pocket). "Hedging risk with itself". 
+- p372 Only deal makers got ahead; "no one in the corporate leadership truly cares about those charged with executing the deals and making them actually produce profit."
+- p378 Enron had been unable to roll its commercial paper - the portfolio of unsecured short-term loans that all big companies use to fund their day-to-day needs. Renewing such debt was normally a routine matter. Though the amounts involved were huge (~2bn), the exposure was so brief (24h) that, for lenders, it was really nothing to worry about - unless they had reason to wonder if the company would survive long enough to pay it back. 
+- p379 Under Fastor, Enron had operated quarter to quarter. The company lacked the kind of sophisticated cash-management systems that big companies required. 

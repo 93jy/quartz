@@ -20,7 +20,7 @@ Date summarised: 2021.08.05 - 2021.09.12
 4. **[Intentionality](notes/C_Being%20intentional.md)** about what you do / how you spend your time is key 
 5. **[Working harder does not correlate with more success](notes/C_Working%20harder%20does%20not%20correlate%20with%20more%20success.md)**: i.e. no need to fomo people who OT
 6. **[[C_Personal accountability and ownership|Personal accountability / ownership]]**: single most important thing to do to become great 
-- Quite a bit of overlap with [[Cal Newport]] advice
+- Quite a bit of overlap with [Cal Newport](notes/Cal%20Newport.md) advice
 	- Values
 	- Quarterly planning
 	- Time block planning 

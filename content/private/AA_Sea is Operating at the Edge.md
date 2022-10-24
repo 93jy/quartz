@@ -1,5 +1,5 @@
 # Sea is Operating at the Edge
-
+https://www.generalist.com/briefing/sea
 If you only have a few minutes to spare, here's what investors, operators, and founders should know about Sea Limited.
 
 -   **A tough year**. It has not been a happy 2022 for Sea. The company lost $177 billion of its peak market cap, retreated from Europe and Latin America, and laid off staff. Losses swelled from $24.1 million to $506.3 million on an adjusted EBITDA basis. 

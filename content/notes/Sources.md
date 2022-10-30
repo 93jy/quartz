@@ -8,3 +8,4 @@ tags:
 - [The Generalist](notes/The%20Generalist.md)
 - [Financial Horse](notes/Financial%20Horse.md)
 - [Cal Newport](notes/Cal%20Newport.md)
+- [Freakonomics](notes/PP_Freakonomics.md)

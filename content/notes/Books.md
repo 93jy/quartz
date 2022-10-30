@@ -12,7 +12,21 @@ I read quite a number of books, perhaps too many falling under the category 'sel
 - [Think and Grow Rich](notes/B_Think%20and%20Grow%20Rich.md)
 - [Good Economics for Hard Times](notes/B_Good%20Economics%20for%20Hard%20Times.md)
 - [The Practice of Groundedness](notes/B_The%20Practice%20of%20Groundedness.md)
-- [The Laws of Human Nature](notes/The%20Laws%20of%20Human%20Nature.md)
+- [The Power of Geography](notes/B_The%20Power%20of%20Geography.md)
+
+## Summarised
+| Book                                                                                | Status | Date                    |
+| ----------------------------------------------------------------------------------- | ------ | ----------------------- |
+| [Atomic Habits](notes/B_Atomic%20Habits.md)                                         | Full   | 2021.06.13              |
+| [Deep Work](notes/B_Deep%20Work.md)                                                 | Full   | 2021.07.01              |
+| [Factfulness](notes/B_Factfulness.md)                                               | Short  | 2021.07.25              |
+| [China in 10 Words](notes/B_China%20in%2010%20Words.md)                             | Short  | 2021.09.08              |
+| [The 12 Week Year](notes/B_The%2012%20Week%20Year.md)                               | Full   | 2021.09.12              |
+| [Range (book)](notes/B_Range.md)                                                    | Short  | 2021.10.03              |
+| [The Effective Executive](notes/B_The%20Effective%20Executive.md)                   | Full   | 2021.07 - 2021.10.24    |
+| [[B_Ultralearning]]                                                                 | Full   | 2021.07.25 - 2021.10.29 |
+| [So Good They Can't Ignore You](notes/B_So%20Good%20They%20Can't%20Ignore%20You.md) | Full   | 2022.08.22              |
+| [The Smartest Guys in the Room](notes/The%20Smartest%20Guys%20in%20the%20Room.md)   | Short       | 2022.10.24                         |
 
 ## Summary in progress
 | Book                                                                      | Status              | Date             |
@@ -29,23 +43,9 @@ I read quite a number of books, perhaps too many falling under the category 'sel
 | [[B_This Changes Everything]]                                             | Still reading       | 2022.01.10       |
 | [B_Make Time](notes/B_Make%20Time.md)                                     | WIP                 | 2022.01.10       |
 - [Building a Second Brain](notes/B_Building%20a%20Second%20Brain.md)
+- [The Laws of Human Nature](notes/The%20Laws%20of%20Human%20Nature.md)
 
-## Summarised
-| Book                                                                                | Status | Date                    |
-| ----------------------------------------------------------------------------------- | ------ | ----------------------- |
-| [Atomic Habits](notes/B_Atomic%20Habits.md)                                         | Full   | 2021.06.13              |
-| [Deep Work](notes/B_Deep%20Work.md)                                                 | Full   | 2021.07.01              |
-| [Factfulness](notes/B_Factfulness.md)                                               | Short  | 2021.07.25              |
-| [China in 10 Words](notes/B_China%20in%2010%20Words.md)                             | Short  | 2021.09.08              |
-| [The 12 Week Year](notes/B_The%2012%20Week%20Year.md)                                                              | Full   | 2021.09.12              |
-| [Range (book)](notes/B_Range.md)                                                    | Short  | 2021.10.03              |
-| [The Effective Executive](notes/B_The%20Effective%20Executive.md)                   | Full   | 2021.07 - 2021.10.24    |
-| [[B_Ultralearning]]                                                                 | Full   | 2021.07.25 - 2021.10.29 |
-| [So Good They Can't Ignore You](notes/B_So%20Good%20They%20Can't%20Ignore%20You.md) | Full   | 2022.08.22              |
-- [The Smartest Guys in the Room](notes/The%20Smartest%20Guys%20in%20the%20Room.md)
 
-## Stalled 
- 
 ## Book buying ideas
 - https://www.nateliason.com/notes
 - https://fs.blog/reading-2020/

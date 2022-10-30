@@ -24,3 +24,4 @@ Up: [1_Business](notes/1_Business.md)
 - [Sea](notes/Sea.md)
 - And many more 
 - [[2_Enron]]
+- [Nuclear power](notes/Nuclear%20power.md)

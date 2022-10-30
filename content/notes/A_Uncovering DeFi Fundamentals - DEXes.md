@@ -1,5 +1,5 @@
 ---
-title: "Uncovering DeFi Fundamentals - Decetnralized Exchanges"
+title: "Uncovering DeFi Fundamentals - Decentralised Exchanges"
 alias: ["Uncovering DeFi Fundamentals - DEXes"]
 tags:
 - Article

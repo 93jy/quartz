@@ -7,4 +7,3 @@ tags:
 [Mental model collection](notes/Mental%20model%20collection.md)
 
 - [Range (book)](notes/B_Range.md)
-- w

@@ -19,6 +19,7 @@ title: "Climate change, sustainability"
 	- [[Stranded assets]]
 - Solutions: 
 	- COP, other international conferences, etc. 
+	- [[Nuclear power]]? [Freakonomics](notes/PP_Freakonomics.md) Podcast 
 - This is a [wicked problem](notes/C_Wicked%20environments.md). Many concepts / mental models involved, far ranging 
 - [Incentives](notes/C_Incentives.md) is most of it. Finance plays a big part in these incentives. 
 - [Sustainability reporting](notes/Sustainability%20reporting.md)

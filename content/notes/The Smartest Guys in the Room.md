@@ -5,15 +5,15 @@ tags:
 - Book
 ---
 [Books](notes/Books.md) #book 
-Date summarised: 2022.10.24 
-There is also a documentary (seemingly free on Youtube?) based on this book 
+- Date summarised: 2022.10.24
+- There is also a documentary (seemingly free on Youtube?) based on this book 
 
 > [!tldr] The book in 3 sentences
 > - Describes in vivid detail the story of Enron from birth to spectacular demise, how a group of 'brilliant' people got ahead of themselves to create a huge company with fictitious profits through off-balance sheet debt and financial machinations (and believing their own lies in the process), which led to the inevitable end
 > - Greed and [incentives](notes/C_Incentives.md) are a big reason for the disastrous way the company was run 
-> - Groupthink and not having or accepting an outside opinion (among all parties: Enron executives, bankers, auditors, stock analysts, credit rating agencies...) 
+> - Groupthink and not considering or accepting an outside opinion (among all parties: Enron executives, bankers, auditors, stock analysts, credit rating agencies...) 
 
-## Impressions
+## Highlights
 - Can relate to many aspects of the book in my current experience in a deal-making team facing the 'obstacles' such as stakeholders like *risk management*, auditors, regulators, internal departments. The Risk Management department will love this book as a cautionary tale laying out the consequence of going too far in on the *influencing* and bending all the (accounting) rules to your will, for the sake of business. 
 - They went down the slippery slope as the Enron executives get more and more confident in their accounting tricks and concoct increasingly outrageous schemes to pocket more money for themselves 
 - Smoking their own dope / hive mind / any dissent shot down, making it hard for anyone to present an alternative viewpoint that closer reflected reality 

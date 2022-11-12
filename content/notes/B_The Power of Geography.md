@@ -1,5 +1,5 @@
 ---
-title: "B_The Power of Geography"
+title: "The Power of Geography"
 alias: ["The Power of Geography"]
 tags:
 - Book
@@ -14,6 +14,7 @@ GBP5 book from Heathrow airport
 - Defence strategy: dependent on geography 
 - Diplomacy / geopolitics 
 - Culture, religion 
+- Quick history lesson on the various countries and how they came to be what they are today after many centuries 
 ## How the book changed me
 *How my life / behaviour / thoughts / ideas have changed as a result of reading the book*
 

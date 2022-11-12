@@ -10,3 +10,6 @@ tags:
 		- Physical risks: economic costs and financial losses from increased frequency and severity of extreme climate change-related weather events and longer-term shifts in climate
 		- Transition risks : political, liability and technological changes resulting from efforts to mitigate climate change 
 	- Relevant for insurers: liability risks (claims from those suffering loss/damage from climate change)
+- Real-world physical impacts of climate change 
+- Real-world impacts of transition 
+- Disruption caused by climate-related risks 

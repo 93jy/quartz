@@ -1,0 +1,42 @@
+2023 exams 
+![](notes/images/Pasted%20image%2020221105230213.png)
+
+Concepts 
+- Reading 4
+	- EAR and stated return etc. 
+		- Continuously compounded rate ('stated rate')
+			- EAR x -> CC rate: x -> ln x
+			- CC rate y -> EAR: y -> e^y - 1
+		- Discretely compounded rate ('stated rate')
+			- EAR x -> DC rate: x -> n ((1+x)^(1/n) - 1)
+			- DC rate y -> EAR: (1 + y/n)^n - 1
+		- 'Stated rate': the rate in semiannual/quarterly/CC etc. 
+		- EAR: the 'actual' rate annualised. 
+		- EAR > stated rate. 
+		- If a stock doubled over the year, the EAR is 2. The CC stated rate is ln2 = 0.69. The quarterly stated rate is 4((1+2)^0.25 - 1) = 1.26 (correct?)
+	- Cluster sampling, one stage and two stage 
+- 60 Readings
+- Book 1 (8-12%, 8-12%) **16-24%**
+	- 1: Quantitative methods (1)
+	- 2: Quantitative methods (2) 
+	- 3: Econs (1) 
+	- 4: Econs (2) 
+- Book 2 (**13-17%**) 
+	- 5: FSA (1)
+	- 6: FSA (2) 
+	- 7: FSA (3)
+	- 8: FSA (4)
+- Book 3 (8-12%, 10-12%) **18-24%**
+	- 9: Corporate issuers (1)
+	- 10: Corporate issuers (2) 
+	- 11: Equity investments (1) 
+	- 12: Equity investments (2) 
+- Book 4 (10-12%, 5-8%, 5-8%) **20-28%**
+	- 13: Fixed income (1)
+	- 14: Fixed income (2) 
+	- 15: Derivatives 
+	- 16: Alternative investments 
+- Book 5 (5-8%, 15-20%) **20-28%**
+	- 17: Portfolio management (1)
+	- 18: Portfolio management (2) 
+	- 19: Ethics 

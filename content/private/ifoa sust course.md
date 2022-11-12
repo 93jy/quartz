@@ -1,0 +1,138 @@
+- a lot of life actuaries, investment / pension actuaries etc
+1.5 hour discussion 
+- how to pay for it: taxation? 
+	- windfall tax? less difficult things to get through - on O&G companies? 
+	- O&G has been denying climate change for decades, their business. They would not agree, they will lobby heavily against it. 
+	- ringfencing of taxation - the money from tax must go to climate change. 
+- Instead of tax, call it a 'green premium'? 
+- 2040 is a very ambitious target. Not too many developed countries on track for that currently
+- we need short term targets. 2050 is too far away, people will kick the can down the road. 
+- other small detailed discussions... 
+- nuclear energy? 
+- obviously out of my depth here. Cannot really contribute. Anything I say would be very shallow. 
+- Data centres: use a lot of energy to keep cool
+- UK: old housing poor insulation is a big issue. Heating uses a lot of energy. new buildings must be more environmentally friendly. Building standards. 
+	- could lead to accumulation of wealth of people who are already rich? 
+	- Now may be the time to do it while people still have energy security. 
+- Hearts and minds thing or compulsory? 
+- Internal, external, 
+- Blue hydrogen 
+- climate bonds 
+
+
+- Reduce emissions by
+- Internal: 
+	- Transport
+		- Cleaner transport infrastructure
+			- Electrifying trains/buses/vehicles
+			- Restrictions on aviation industry. Banning private jets / journeys below a certain distance
+			- Encourage electric vehicles. Governmetn loan scheme. Fuel efficiency schemes. More affordable to use cleaner transport
+			- research grants for various groups, fuels like hydrogen
+	- Energy
+		- Renewable sources - a priority
+		- Nuclear 
+		- Lag times to get nuclear - other sources may need to be increased
+		- Policies must support reducing consumption
+			- Reduce reliance on energy - insulation in buildings
+			- Prescriptive (new buildings, landlords must put insulation)
+			- Enocurage existing homeowners to improve insulation to improve energy efficiency
+		- Lower carbon emissions for things like steel, cement which are carbon-intensive. 
+		- Carbon tax
+		- Business
+			- Grants to get people to move out of carbon-intensive industries to greener ones 
+			- gOals for business to move to greener energy use 
+		- Residential
+			- Newbuild building standards 
+			- Existing properties: subsidies for insulation / solar panels. But benefits for homeowners. Make it compulsory for landlords to benefit the tenants
+	- Agriculture
+		- Food wastage reduction
+		- Educate and incentivise farmers to use sustianable agriculture practicies. Through subsidies and education
+		- Consumption of meat / beef in particular. 
+		- Supermarkets - language they have for consumers. 
+		- Pricing to include 'food miles'? 
+		- Purchase local grown produce
+		- Fair deals for farmers legislation. 
+		- R&D - lab grown meat 
+- External policies 
+	- Lobby developed countries to support
+	- Educate people to reduce emissions 
+	- Global funding system to support this 
+	- Carbon pricing - polluter pays scheme. Racheting
+	- Windfall tax on O&G companies. Energy companies profits have skyrocketed due to oil prices / uncertainty. tax them 
+	- 0.5-1% tax for sovereign wealth fund to be invested in carbon transition 
+	- Climate bonds for disaster relief in affected countries
+
+
+- Macro perspective
+	- 2 main things: loss and damage - easiest to legislate: Energy and transport infrastructure
+	- Tax and incentive schemes 
+	- Tax incentives for energy infrastructure 
+	- Subsidies for industries
+	- Penalties (in the extreme) - a very carbon damaging industry (coal/oil) - higher marginal tax rate. Windfall tax if not meeting certain targets 
+	- Timescales: for industry that needs to transition and carbon output targets, if not met, penalise them with higher tax rate. stagger the tax rates, slowly increase the tax - make the industry less and less profitable over time, so less and less investment in such industries. gives them incentive to invest in new areas
+	- Transport infrastructure
+		- Aviation: for travelling the same distance, choosing rail vs plane, you will use plane. Solution: subsidies for rail industry and greater tax burden on aviation. Aviation should consider themselves to be part of transport industry, incentivise them to move away from planes to trains 
+		- Similar for EV vs ICE cars. Batteries are the main components of EV 
+		- Timescales: not suddenly tax aviation overnight; gradually bring them in so incentives are well seen in advance.
+	- Carbon trading: 2 parts to the balance sheet 
+		- Financial side: economic measures
+		- Ecologicla measures. 
+		- Make compulsory to measure on the ecological side. Forcing net zero and purchase of carbon credits should be legislated
+		- Only california (well known example), EU, China, complinace markets for carbon credits. The rest of the world is voluntary, no pressure to disclose such information in company accounts.
+	- Overall aim at macro level: ecological measures and financial measures, with eco as important. 
+- Micro perspective
+	- Education - not just school, but training of companies, buyers etc. to ensure awareness is heightened on environmental choices that could be made, and recycling, human impact.
+	- Banning products that are difficult to recycle. Plastics - composite plastics are very difficult to recycle 
+	- Right to repair. Products borugh tto market should be able to be recycled, repaired, etc. iphones should be easily recyclable, repaired
+	- Other polluting industries / products. Ban on diesel cars 
+	- Climate justice. Financing from richer countries. Through a fund or something 
+	- Not within country, but a global approach to tackling these issues 
+
+- Wealth distribution
+	- The world remains a very unequal place. Extreme poverty is still a problem 
+- Population growth and women empowerment and education
+	- Population is still growing, more resources to support more people 
+- Quality education
+- Developed vs developing countries - different stages of development 
+	- People are used to rising living standards. But can the global average livign standards be sustained in the long term? Reduction of living standards in development countries? 
+- Human nature - aim to gain financially, selfish interest, irrespective of policies 
+	- What are the **incentives** for all stakeholders 
+	- cost of implementation of global policies 
+- Carbon capture vs carbon reduction
+- power distribution
+	- Real politics; competition between countries
+- Riptide: don't fight it, focus on going with it and change course. We want o look fro solutions that will have most practical impact
+- balance between primary and secondary mitigation. 
+- Humans will respond to a plan, need leadership - hopeful 
+Policies
+- Balanced policies between carbon capture and carbon reduction
+	- Eliminate GHG 
+- Population growth and women empowerment and education 
+	- Curbing population growth by providing quality education for women 
+	- Broad level of education instead of focusing only on the youth - provide mass public education
+	- Education does not attract private investment as it does not have a tangible economic outcome 
+	- Education is necessary but not sufficient 
+- Adjust to an orderly and fair transition 
+	- Where does the investment come from and are the transition projects bankable?
+	- Slow transition from carbon intensive resources by substituting to gas (fossil fuel still) then to green tech - sustaining the level of investments 
+- Green tech 
+	- Education in universities and investments of transition projects at university level 
+	- Incentives to develop solar farms and incentives to develop green-tech batteries 
+	- Focus on long-term investment rather than short-term financial performance; changing shareholders minds
+	- Affordability, scalability, education of green tech 
+	- Time factor for transition: carbon tech to green tech 
+	- Impact of corruption and hindrance on reaching / completing green tech projects 
+	- Responsible extraction, development, use of alternative resources e.g. nuclear energy 
+	- Ethical development and use - e.g. lab grown meat
+	- Carbon pricing, climate change fund for developed and developing countries
+	- Emerging risk of climate-change related diseases - how to manage them 
+- Not all regulators / markets are as advanced. 
+- Different abilities of the different regions. e.g. Africa not a lot of funds, rely quite heavily on devleoped world if they were to meet the climate change goals
+- Africa has a lot of opportunities to invest in renewable energy - e.g. solar. But not enough money for investment. Could be lack of education. How to formulate business plans and make projects bankable so investors 
+- Just transition - population no access to electricity, still rely on fossil fuels to maintain basic standard of living. To apply global policies / one size fits all approach would work against them. So some nations able to should push harder than those who need more help. 
+
+- Each country faces its own challenges
+
+
+Joey Zhou 
+
